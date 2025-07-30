@@ -1,0 +1,1317 @@
+date,geography,countries,development_status,developing_region,crisis_probability,crisis_predicted,crisis_type
+2025-06-01,AFG,Afghanistan,Developing,Asia and Oceania,0.006204546752396564,0,None
+2025-07-01,AFG,Afghanistan,Developing,Asia and Oceania,0.006204546752396564,0,None
+2025-08-01,AFG,Afghanistan,Developing,Asia and Oceania,0.006204546752396564,0,None
+2025-09-01,AFG,Afghanistan,Developing,Asia and Oceania,0.006204546752396564,0,None
+2025-10-01,AFG,Afghanistan,Developing,Asia and Oceania,0.006204546752396564,0,None
+2025-11-01,AFG,Afghanistan,Developing,Asia and Oceania,0.006204546752396564,0,None
+2025-12-01,AFG,Afghanistan,Developing,Asia and Oceania,0.006204546752396564,0,None
+2025-06-01,AGO,Angola,Developing,Africa,-0.6723951751500561,0,None
+2025-07-01,AGO,Angola,Developing,Africa,-0.6723951751500561,0,None
+2025-08-01,AGO,Angola,Developing,Africa,-0.6723951751500561,0,None
+2025-09-01,AGO,Angola,Developing,Africa,-0.6723951751500561,0,None
+2025-10-01,AGO,Angola,Developing,Africa,-0.6723951751500561,0,None
+2025-11-01,AGO,Angola,Developing,Africa,-0.6723951751500561,0,None
+2025-12-01,AGO,Angola,Developing,Africa,-0.6723951751500561,0,None
+2025-06-01,ALB,Albania,Developed,Europe,0.0019568803809609844,0,None
+2025-07-01,ALB,Albania,Developed,Europe,0.0019568803809609844,0,None
+2025-08-01,ALB,Albania,Developed,Europe,0.0019568803809609844,0,None
+2025-09-01,ALB,Albania,Developed,Europe,0.0019568803809609844,0,None
+2025-10-01,ALB,Albania,Developed,Europe,0.0019568803809609844,0,None
+2025-11-01,ALB,Albania,Developed,Europe,0.0019568803809609844,0,None
+2025-12-01,ALB,Albania,Developed,Europe,0.0019568803809609844,0,None
+2025-06-01,ARE,United Arab Emirates (the),Developing,Asia and Oceania,0.3266612633823457,0,None
+2025-07-01,ARE,United Arab Emirates (the),Developing,Asia and Oceania,0.3266612633823457,0,None
+2025-08-01,ARE,United Arab Emirates (the),Developing,Asia and Oceania,0.3266612633823457,0,None
+2025-09-01,ARE,United Arab Emirates (the),Developing,Asia and Oceania,0.3266612633823457,0,None
+2025-10-01,ARE,United Arab Emirates (the),Developing,Asia and Oceania,0.3266612633823457,0,None
+2025-11-01,ARE,United Arab Emirates (the),Developing,Asia and Oceania,0.3266612633823457,0,None
+2025-12-01,ARE,United Arab Emirates (the),Developing,Asia and Oceania,0.3266612633823457,0,None
+2025-06-01,ARG,Argentina,Developing,America,-0.3854686105647973,0,None
+2025-07-01,ARG,Argentina,Developing,America,-0.3854686105647973,0,None
+2025-08-01,ARG,Argentina,Developing,America,-0.3854686105647973,0,None
+2025-09-01,ARG,Argentina,Developing,America,-0.3854686105647973,0,None
+2025-10-01,ARG,Argentina,Developing,America,-0.3854686105647973,0,None
+2025-11-01,ARG,Argentina,Developing,America,-0.3854686105647973,0,None
+2025-12-01,ARG,Argentina,Developing,America,-0.3854686105647973,0,None
+2025-06-01,ARM,Armenia,Developing,Asia and Oceania,0.015433056817011287,0,None
+2025-07-01,ARM,Armenia,Developing,Asia and Oceania,0.015433056817011287,0,None
+2025-08-01,ARM,Armenia,Developing,Asia and Oceania,0.015433056817011287,0,None
+2025-09-01,ARM,Armenia,Developing,Asia and Oceania,0.015433056817011287,0,None
+2025-10-01,ARM,Armenia,Developing,Asia and Oceania,0.015433056817011287,0,None
+2025-11-01,ARM,Armenia,Developing,Asia and Oceania,0.015433056817011287,0,None
+2025-12-01,ARM,Armenia,Developing,Asia and Oceania,0.015433056817011287,0,None
+2025-06-01,ATG,Antigua and Barbuda,Developing,America,0.002125608008504194,0,None
+2025-07-01,ATG,Antigua and Barbuda,Developing,America,0.002125608008504194,0,None
+2025-08-01,ATG,Antigua and Barbuda,Developing,America,0.002125608008504194,0,None
+2025-09-01,ATG,Antigua and Barbuda,Developing,America,0.002125608008504194,0,None
+2025-10-01,ATG,Antigua and Barbuda,Developing,America,0.002125608008504194,0,None
+2025-11-01,ATG,Antigua and Barbuda,Developing,America,0.002125608008504194,0,None
+2025-12-01,ATG,Antigua and Barbuda,Developing,America,0.002125608008504194,0,None
+2025-06-01,AUS,Australia,Developed,Asia and Oceania,0.02793630896671015,0,None
+2025-07-01,AUS,Australia,Developed,Asia and Oceania,0.02793630896671015,0,None
+2025-08-01,AUS,Australia,Developed,Asia and Oceania,0.02793630896671015,0,None
+2025-09-01,AUS,Australia,Developed,Asia and Oceania,0.02793630896671015,0,None
+2025-10-01,AUS,Australia,Developed,Asia and Oceania,0.02793630896671015,0,None
+2025-11-01,AUS,Australia,Developed,Asia and Oceania,0.02793630896671015,0,None
+2025-12-01,AUS,Australia,Developed,Asia and Oceania,0.02793630896671015,0,None
+2025-06-01,AUT,Austria,Developed,Europe,-0.005463843747922742,0,None
+2025-07-01,AUT,Austria,Developed,Europe,-0.005463843747922742,0,None
+2025-08-01,AUT,Austria,Developed,Europe,-0.005463843747922742,0,None
+2025-09-01,AUT,Austria,Developed,Europe,-0.005463843747922742,0,None
+2025-10-01,AUT,Austria,Developed,Europe,-0.005463843747922742,0,None
+2025-11-01,AUT,Austria,Developed,Europe,-0.005463843747922742,0,None
+2025-12-01,AUT,Austria,Developed,Europe,-0.005463843747922742,0,None
+2025-06-01,AZE,Azerbaijan,Developing,Asia and Oceania,-0.1852616583208218,0,None
+2025-07-01,AZE,Azerbaijan,Developing,Asia and Oceania,-0.1852616583208218,0,None
+2025-08-01,AZE,Azerbaijan,Developing,Asia and Oceania,-0.1852616583208218,0,None
+2025-09-01,AZE,Azerbaijan,Developing,Asia and Oceania,-0.1852616583208218,0,None
+2025-10-01,AZE,Azerbaijan,Developing,Asia and Oceania,-0.1852616583208218,0,None
+2025-11-01,AZE,Azerbaijan,Developing,Asia and Oceania,-0.1852616583208218,0,None
+2025-12-01,AZE,Azerbaijan,Developing,Asia and Oceania,-0.1852616583208218,0,None
+2025-06-01,BDI,Burundi,Developing,Africa,-0.26880038453784194,0,None
+2025-07-01,BDI,Burundi,Developing,Africa,-0.26880038453784194,0,None
+2025-08-01,BDI,Burundi,Developing,Africa,-0.26880038453784194,0,None
+2025-09-01,BDI,Burundi,Developing,Africa,-0.26880038453784194,0,None
+2025-10-01,BDI,Burundi,Developing,Africa,-0.26880038453784194,0,None
+2025-11-01,BDI,Burundi,Developing,Africa,-0.26880038453784194,0,None
+2025-12-01,BDI,Burundi,Developing,Africa,-0.26880038453784194,0,None
+2025-06-01,BEL,Belgium,Developed,Europe,0.033403931232248274,0,None
+2025-07-01,BEL,Belgium,Developed,Europe,0.033403931232248274,0,None
+2025-08-01,BEL,Belgium,Developed,Europe,0.033403931232248274,0,None
+2025-09-01,BEL,Belgium,Developed,Europe,0.033403931232248274,0,None
+2025-10-01,BEL,Belgium,Developed,Europe,0.033403931232248274,0,None
+2025-11-01,BEL,Belgium,Developed,Europe,0.033403931232248274,0,None
+2025-12-01,BEL,Belgium,Developed,Europe,0.033403931232248274,0,None
+2025-06-01,BEN,Benin,Developing,Africa,0.44663657257435496,0,None
+2025-07-01,BEN,Benin,Developing,Africa,0.44663657257435496,0,None
+2025-08-01,BEN,Benin,Developing,Africa,0.44663657257435496,0,None
+2025-09-01,BEN,Benin,Developing,Africa,0.44663657257435496,0,None
+2025-10-01,BEN,Benin,Developing,Africa,0.44663657257435496,0,None
+2025-11-01,BEN,Benin,Developing,Africa,0.44663657257435496,0,None
+2025-12-01,BEN,Benin,Developing,Africa,0.44663657257435496,0,None
+2025-06-01,BFA,Burkina Faso,Developing,Africa,0.09188778217597038,0,None
+2025-07-01,BFA,Burkina Faso,Developing,Africa,0.09188778217597038,0,None
+2025-08-01,BFA,Burkina Faso,Developing,Africa,0.09188778217597038,0,None
+2025-09-01,BFA,Burkina Faso,Developing,Africa,0.09188778217597038,0,None
+2025-10-01,BFA,Burkina Faso,Developing,Africa,0.09188778217597038,0,None
+2025-11-01,BFA,Burkina Faso,Developing,Africa,0.09188778217597038,0,None
+2025-12-01,BFA,Burkina Faso,Developing,Africa,0.09188778217597038,0,None
+2025-06-01,BGD,Bangladesh,Developing,Asia and Oceania,-0.41462399892622265,0,None
+2025-07-01,BGD,Bangladesh,Developing,Asia and Oceania,-0.41462399892622265,0,None
+2025-08-01,BGD,Bangladesh,Developing,Asia and Oceania,-0.41462399892622265,0,None
+2025-09-01,BGD,Bangladesh,Developing,Asia and Oceania,-0.41462399892622265,0,None
+2025-10-01,BGD,Bangladesh,Developing,Asia and Oceania,-0.41462399892622265,0,None
+2025-11-01,BGD,Bangladesh,Developing,Asia and Oceania,-0.41462399892622265,0,None
+2025-12-01,BGD,Bangladesh,Developing,Asia and Oceania,-0.41462399892622265,0,None
+2025-06-01,BGR,Bulgaria,Developed,Europe,-0.17998008823936337,0,None
+2025-07-01,BGR,Bulgaria,Developed,Europe,-0.17998008823936337,0,None
+2025-08-01,BGR,Bulgaria,Developed,Europe,-0.17998008823936337,0,None
+2025-09-01,BGR,Bulgaria,Developed,Europe,-0.17998008823936337,0,None
+2025-10-01,BGR,Bulgaria,Developed,Europe,-0.17998008823936337,0,None
+2025-11-01,BGR,Bulgaria,Developed,Europe,-0.17998008823936337,0,None
+2025-12-01,BGR,Bulgaria,Developed,Europe,-0.17998008823936337,0,None
+2025-06-01,BHR,Bahrain,Developing,Asia and Oceania,-0.3631664544152573,0,None
+2025-07-01,BHR,Bahrain,Developing,Asia and Oceania,-0.3631664544152573,0,None
+2025-08-01,BHR,Bahrain,Developing,Asia and Oceania,-0.3631664544152573,0,None
+2025-09-01,BHR,Bahrain,Developing,Asia and Oceania,-0.3631664544152573,0,None
+2025-10-01,BHR,Bahrain,Developing,Asia and Oceania,-0.3631664544152573,0,None
+2025-11-01,BHR,Bahrain,Developing,Asia and Oceania,-0.3631664544152573,0,None
+2025-12-01,BHR,Bahrain,Developing,Asia and Oceania,-0.3631664544152573,0,None
+2025-06-01,BHS,Bahamas (the),Developing,America,0.11405122283813564,0,None
+2025-07-01,BHS,Bahamas (the),Developing,America,0.11405122283813564,0,None
+2025-08-01,BHS,Bahamas (the),Developing,America,0.11405122283813564,0,None
+2025-09-01,BHS,Bahamas (the),Developing,America,0.11405122283813564,0,None
+2025-10-01,BHS,Bahamas (the),Developing,America,0.11405122283813564,0,None
+2025-11-01,BHS,Bahamas (the),Developing,America,0.11405122283813564,0,None
+2025-12-01,BHS,Bahamas (the),Developing,America,0.11405122283813564,0,None
+2025-06-01,BIH,Bosnia and Herzegovina,Developed,Europe,-0.055076492999952334,0,None
+2025-07-01,BIH,Bosnia and Herzegovina,Developed,Europe,-0.055076492999952334,0,None
+2025-08-01,BIH,Bosnia and Herzegovina,Developed,Europe,-0.055076492999952334,0,None
+2025-09-01,BIH,Bosnia and Herzegovina,Developed,Europe,-0.055076492999952334,0,None
+2025-10-01,BIH,Bosnia and Herzegovina,Developed,Europe,-0.055076492999952334,0,None
+2025-11-01,BIH,Bosnia and Herzegovina,Developed,Europe,-0.055076492999952334,0,None
+2025-12-01,BIH,Bosnia and Herzegovina,Developed,Europe,-0.055076492999952334,0,None
+2025-06-01,BLR,Belarus,Developed,Europe,-0.1712051415498296,0,None
+2025-07-01,BLR,Belarus,Developed,Europe,-0.1712051415498296,0,None
+2025-08-01,BLR,Belarus,Developed,Europe,-0.1712051415498296,0,None
+2025-09-01,BLR,Belarus,Developed,Europe,-0.1712051415498296,0,None
+2025-10-01,BLR,Belarus,Developed,Europe,-0.1712051415498296,0,None
+2025-11-01,BLR,Belarus,Developed,Europe,-0.1712051415498296,0,None
+2025-12-01,BLR,Belarus,Developed,Europe,-0.1712051415498296,0,None
+2025-06-01,BLZ,Belize,Developing,America,0.0028463192817382976,0,None
+2025-07-01,BLZ,Belize,Developing,America,0.0028463192817382976,0,None
+2025-08-01,BLZ,Belize,Developing,America,0.0028463192817382976,0,None
+2025-09-01,BLZ,Belize,Developing,America,0.0028463192817382976,0,None
+2025-10-01,BLZ,Belize,Developing,America,0.0028463192817382976,0,None
+2025-11-01,BLZ,Belize,Developing,America,0.0028463192817382976,0,None
+2025-12-01,BLZ,Belize,Developing,America,0.0028463192817382976,0,None
+2025-06-01,BOL,Bolivia (Plurinational State of),Developing,America,0.18454166662457117,0,None
+2025-07-01,BOL,Bolivia (Plurinational State of),Developing,America,0.18454166662457117,0,None
+2025-08-01,BOL,Bolivia (Plurinational State of),Developing,America,0.18454166662457117,0,None
+2025-09-01,BOL,Bolivia (Plurinational State of),Developing,America,0.18454166662457117,0,None
+2025-10-01,BOL,Bolivia (Plurinational State of),Developing,America,0.18454166662457117,0,None
+2025-11-01,BOL,Bolivia (Plurinational State of),Developing,America,0.18454166662457117,0,None
+2025-12-01,BOL,Bolivia (Plurinational State of),Developing,America,0.18454166662457117,0,None
+2025-06-01,BRA,Brazil,Developing,America,-0.27060096874275574,0,None
+2025-07-01,BRA,Brazil,Developing,America,-0.27060096874275574,0,None
+2025-08-01,BRA,Brazil,Developing,America,-0.27060096874275574,0,None
+2025-09-01,BRA,Brazil,Developing,America,-0.27060096874275574,0,None
+2025-10-01,BRA,Brazil,Developing,America,-0.27060096874275574,0,None
+2025-11-01,BRA,Brazil,Developing,America,-0.27060096874275574,0,None
+2025-12-01,BRA,Brazil,Developing,America,-0.27060096874275574,0,None
+2025-06-01,BRB,Barbados,Developing,America,-0.04259686772467174,0,None
+2025-07-01,BRB,Barbados,Developing,America,-0.04259686772467174,0,None
+2025-08-01,BRB,Barbados,Developing,America,-0.04259686772467174,0,None
+2025-09-01,BRB,Barbados,Developing,America,-0.04259686772467174,0,None
+2025-10-01,BRB,Barbados,Developing,America,-0.04259686772467174,0,None
+2025-11-01,BRB,Barbados,Developing,America,-0.04259686772467174,0,None
+2025-12-01,BRB,Barbados,Developing,America,-0.04259686772467174,0,None
+2025-06-01,BRN,Brunei Darussalam,Developing,Asia and Oceania,0.2591266906942587,0,None
+2025-07-01,BRN,Brunei Darussalam,Developing,Asia and Oceania,0.2591266906942587,0,None
+2025-08-01,BRN,Brunei Darussalam,Developing,Asia and Oceania,0.2591266906942587,0,None
+2025-09-01,BRN,Brunei Darussalam,Developing,Asia and Oceania,0.2591266906942587,0,None
+2025-10-01,BRN,Brunei Darussalam,Developing,Asia and Oceania,0.2591266906942587,0,None
+2025-11-01,BRN,Brunei Darussalam,Developing,Asia and Oceania,0.2591266906942587,0,None
+2025-12-01,BRN,Brunei Darussalam,Developing,Asia and Oceania,0.2591266906942587,0,None
+2025-06-01,BTN,Bhutan,Developing,Asia and Oceania,-0.07946121480165487,0,None
+2025-07-01,BTN,Bhutan,Developing,Asia and Oceania,-0.07946121480165487,0,None
+2025-08-01,BTN,Bhutan,Developing,Asia and Oceania,-0.07946121480165487,0,None
+2025-09-01,BTN,Bhutan,Developing,Asia and Oceania,-0.07946121480165487,0,None
+2025-10-01,BTN,Bhutan,Developing,Asia and Oceania,-0.07946121480165487,0,None
+2025-11-01,BTN,Bhutan,Developing,Asia and Oceania,-0.07946121480165487,0,None
+2025-12-01,BTN,Bhutan,Developing,Asia and Oceania,-0.07946121480165487,0,None
+2025-06-01,BWA,Botswana,Developing,Africa,-0.028584587763807706,0,None
+2025-07-01,BWA,Botswana,Developing,Africa,-0.028584587763807706,0,None
+2025-08-01,BWA,Botswana,Developing,Africa,-0.028584587763807706,0,None
+2025-09-01,BWA,Botswana,Developing,Africa,-0.028584587763807706,0,None
+2025-10-01,BWA,Botswana,Developing,Africa,-0.028584587763807706,0,None
+2025-11-01,BWA,Botswana,Developing,Africa,-0.028584587763807706,0,None
+2025-12-01,BWA,Botswana,Developing,Africa,-0.028584587763807706,0,None
+2025-06-01,CAF,Central African Republic (the),Developing,Africa,0.12678349466476765,0,None
+2025-07-01,CAF,Central African Republic (the),Developing,Africa,0.12678349466476765,0,None
+2025-08-01,CAF,Central African Republic (the),Developing,Africa,0.12678349466476765,0,None
+2025-09-01,CAF,Central African Republic (the),Developing,Africa,0.12678349466476765,0,None
+2025-10-01,CAF,Central African Republic (the),Developing,Africa,0.12678349466476765,0,None
+2025-11-01,CAF,Central African Republic (the),Developing,Africa,0.12678349466476765,0,None
+2025-12-01,CAF,Central African Republic (the),Developing,Africa,0.12678349466476765,0,None
+2025-06-01,CAN,Canada,Developed,America,0.08457168937144945,0,None
+2025-07-01,CAN,Canada,Developed,America,0.08457168937144945,0,None
+2025-08-01,CAN,Canada,Developed,America,0.08457168937144945,0,None
+2025-09-01,CAN,Canada,Developed,America,0.08457168937144945,0,None
+2025-10-01,CAN,Canada,Developed,America,0.08457168937144945,0,None
+2025-11-01,CAN,Canada,Developed,America,0.08457168937144945,0,None
+2025-12-01,CAN,Canada,Developed,America,0.08457168937144945,0,None
+2025-06-01,CHE,Switzerland,Developed,Europe,0.68969627533039,1,Inflationary
+2025-07-01,CHE,Switzerland,Developed,Europe,0.68969627533039,1,Inflationary
+2025-08-01,CHE,Switzerland,Developed,Europe,0.68969627533039,1,Inflationary
+2025-09-01,CHE,Switzerland,Developed,Europe,0.68969627533039,1,Inflationary
+2025-10-01,CHE,Switzerland,Developed,Europe,0.68969627533039,1,Inflationary
+2025-11-01,CHE,Switzerland,Developed,Europe,0.68969627533039,1,Inflationary
+2025-12-01,CHE,Switzerland,Developed,Europe,0.68969627533039,1,Inflationary
+2025-06-01,CHL,Chile,Developing,America,-0.2181747718858709,0,None
+2025-07-01,CHL,Chile,Developing,America,-0.2181747718858709,0,None
+2025-08-01,CHL,Chile,Developing,America,-0.2181747718858709,0,None
+2025-09-01,CHL,Chile,Developing,America,-0.2181747718858709,0,None
+2025-10-01,CHL,Chile,Developing,America,-0.2181747718858709,0,None
+2025-11-01,CHL,Chile,Developing,America,-0.2181747718858709,0,None
+2025-12-01,CHL,Chile,Developing,America,-0.2181747718858709,0,None
+2025-06-01,CHN,China,Developing,Asia and Oceania,0.37156020594489025,0,None
+2025-07-01,CHN,China,Developing,Asia and Oceania,0.37156020594489025,0,None
+2025-08-01,CHN,China,Developing,Asia and Oceania,0.37156020594489025,0,None
+2025-09-01,CHN,China,Developing,Asia and Oceania,0.37156020594489025,0,None
+2025-10-01,CHN,China,Developing,Asia and Oceania,0.37156020594489025,0,None
+2025-11-01,CHN,China,Developing,Asia and Oceania,0.37156020594489025,0,None
+2025-12-01,CHN,China,Developing,Asia and Oceania,0.37156020594489025,0,None
+2025-06-01,CIV,Côte d'Ivoire,Developing,Africa,0.16353546450896772,0,None
+2025-07-01,CIV,Côte d'Ivoire,Developing,Africa,0.16353546450896772,0,None
+2025-08-01,CIV,Côte d'Ivoire,Developing,Africa,0.16353546450896772,0,None
+2025-09-01,CIV,Côte d'Ivoire,Developing,Africa,0.16353546450896772,0,None
+2025-10-01,CIV,Côte d'Ivoire,Developing,Africa,0.16353546450896772,0,None
+2025-11-01,CIV,Côte d'Ivoire,Developing,Africa,0.16353546450896772,0,None
+2025-12-01,CIV,Côte d'Ivoire,Developing,Africa,0.16353546450896772,0,None
+2025-06-01,CMR,Cameroon,Developing,Africa,0.13512628253241168,0,None
+2025-07-01,CMR,Cameroon,Developing,Africa,0.13512628253241168,0,None
+2025-08-01,CMR,Cameroon,Developing,Africa,0.13512628253241168,0,None
+2025-09-01,CMR,Cameroon,Developing,Africa,0.13512628253241168,0,None
+2025-10-01,CMR,Cameroon,Developing,Africa,0.13512628253241168,0,None
+2025-11-01,CMR,Cameroon,Developing,Africa,0.13512628253241168,0,None
+2025-12-01,CMR,Cameroon,Developing,Africa,0.13512628253241168,0,None
+2025-06-01,COD,Democratic Republic of the Congo (the),Developing,Africa,0.09875658552682266,0,None
+2025-07-01,COD,Democratic Republic of the Congo (the),Developing,Africa,0.09875658552682266,0,None
+2025-08-01,COD,Democratic Republic of the Congo (the),Developing,Africa,0.09875658552682266,0,None
+2025-09-01,COD,Democratic Republic of the Congo (the),Developing,Africa,0.09875658552682266,0,None
+2025-10-01,COD,Democratic Republic of the Congo (the),Developing,Africa,0.09875658552682266,0,None
+2025-11-01,COD,Democratic Republic of the Congo (the),Developing,Africa,0.09875658552682266,0,None
+2025-12-01,COD,Democratic Republic of the Congo (the),Developing,Africa,0.09875658552682266,0,None
+2025-06-01,COG,Congo (the),Developing,Africa,0.238804733840481,0,None
+2025-07-01,COG,Congo (the),Developing,Africa,0.238804733840481,0,None
+2025-08-01,COG,Congo (the),Developing,Africa,0.238804733840481,0,None
+2025-09-01,COG,Congo (the),Developing,Africa,0.238804733840481,0,None
+2025-10-01,COG,Congo (the),Developing,Africa,0.238804733840481,0,None
+2025-11-01,COG,Congo (the),Developing,Africa,0.238804733840481,0,None
+2025-12-01,COG,Congo (the),Developing,Africa,0.238804733840481,0,None
+2025-06-01,COL,Colombia,Developing,America,-0.2810040525186608,0,None
+2025-07-01,COL,Colombia,Developing,America,-0.2810040525186608,0,None
+2025-08-01,COL,Colombia,Developing,America,-0.2810040525186608,0,None
+2025-09-01,COL,Colombia,Developing,America,-0.2810040525186608,0,None
+2025-10-01,COL,Colombia,Developing,America,-0.2810040525186608,0,None
+2025-11-01,COL,Colombia,Developing,America,-0.2810040525186608,0,None
+2025-12-01,COL,Colombia,Developing,America,-0.2810040525186608,0,None
+2025-06-01,COM,Comoros (the),Developing,Africa,0.09875658552682266,0,None
+2025-07-01,COM,Comoros (the),Developing,Africa,0.09875658552682266,0,None
+2025-08-01,COM,Comoros (the),Developing,Africa,0.09875658552682266,0,None
+2025-09-01,COM,Comoros (the),Developing,Africa,0.09875658552682266,0,None
+2025-10-01,COM,Comoros (the),Developing,Africa,0.09875658552682266,0,None
+2025-11-01,COM,Comoros (the),Developing,Africa,0.09875658552682266,0,None
+2025-12-01,COM,Comoros (the),Developing,Africa,0.09875658552682266,0,None
+2025-06-01,CPV,Cabo Verde,Developing,Africa,0.17832571090723304,0,None
+2025-07-01,CPV,Cabo Verde,Developing,Africa,0.17832571090723304,0,None
+2025-08-01,CPV,Cabo Verde,Developing,Africa,0.17832571090723304,0,None
+2025-09-01,CPV,Cabo Verde,Developing,Africa,0.17832571090723304,0,None
+2025-10-01,CPV,Cabo Verde,Developing,Africa,0.17832571090723304,0,None
+2025-11-01,CPV,Cabo Verde,Developing,Africa,0.17832571090723304,0,None
+2025-12-01,CPV,Cabo Verde,Developing,Africa,0.17832571090723304,0,None
+2025-06-01,CRI,Costa Rica,Developing,America,0.13552196520802862,0,None
+2025-07-01,CRI,Costa Rica,Developing,America,0.13552196520802862,0,None
+2025-08-01,CRI,Costa Rica,Developing,America,0.13552196520802862,0,None
+2025-09-01,CRI,Costa Rica,Developing,America,0.13552196520802862,0,None
+2025-10-01,CRI,Costa Rica,Developing,America,0.13552196520802862,0,None
+2025-11-01,CRI,Costa Rica,Developing,America,0.13552196520802862,0,None
+2025-12-01,CRI,Costa Rica,Developing,America,0.13552196520802862,0,None
+2025-06-01,CUB,Cuba,Developing,America,-0.0012434144731773445,0,None
+2025-07-01,CUB,Cuba,Developing,America,-0.0012434144731773445,0,None
+2025-08-01,CUB,Cuba,Developing,America,-0.0012434144731773445,0,None
+2025-09-01,CUB,Cuba,Developing,America,-0.0012434144731773445,0,None
+2025-10-01,CUB,Cuba,Developing,America,-0.0012434144731773445,0,None
+2025-11-01,CUB,Cuba,Developing,America,-0.0012434144731773445,0,None
+2025-12-01,CUB,Cuba,Developing,America,-0.0012434144731773445,0,None
+2025-06-01,CYP,Cyprus,Developed,Europe,0.14142949194207066,0,None
+2025-07-01,CYP,Cyprus,Developed,Europe,0.14142949194207066,0,None
+2025-08-01,CYP,Cyprus,Developed,Europe,0.14142949194207066,0,None
+2025-09-01,CYP,Cyprus,Developed,Europe,0.14142949194207066,0,None
+2025-10-01,CYP,Cyprus,Developed,Europe,0.14142949194207066,0,None
+2025-11-01,CYP,Cyprus,Developed,Europe,0.14142949194207066,0,None
+2025-12-01,CYP,Cyprus,Developed,Europe,0.14142949194207066,0,None
+2025-06-01,CZE,Czechia,Developed,Europe,-0.1106864900477544,0,None
+2025-07-01,CZE,Czechia,Developed,Europe,-0.1106864900477544,0,None
+2025-08-01,CZE,Czechia,Developed,Europe,-0.1106864900477544,0,None
+2025-09-01,CZE,Czechia,Developed,Europe,-0.1106864900477544,0,None
+2025-10-01,CZE,Czechia,Developed,Europe,-0.1106864900477544,0,None
+2025-11-01,CZE,Czechia,Developed,Europe,-0.1106864900477544,0,None
+2025-12-01,CZE,Czechia,Developed,Europe,-0.1106864900477544,0,None
+2025-06-01,DEU,Germany,Developed,Europe,0.013060846935082615,0,None
+2025-07-01,DEU,Germany,Developed,Europe,0.013060846935082615,0,None
+2025-08-01,DEU,Germany,Developed,Europe,0.013060846935082615,0,None
+2025-09-01,DEU,Germany,Developed,Europe,0.013060846935082615,0,None
+2025-10-01,DEU,Germany,Developed,Europe,0.013060846935082615,0,None
+2025-11-01,DEU,Germany,Developed,Europe,0.013060846935082615,0,None
+2025-12-01,DEU,Germany,Developed,Europe,0.013060846935082615,0,None
+2025-06-01,DJI,Djibouti,Developing,Africa,0.1642570056650799,0,None
+2025-07-01,DJI,Djibouti,Developing,Africa,0.1642570056650799,0,None
+2025-08-01,DJI,Djibouti,Developing,Africa,0.1642570056650799,0,None
+2025-09-01,DJI,Djibouti,Developing,Africa,0.1642570056650799,0,None
+2025-10-01,DJI,Djibouti,Developing,Africa,0.1642570056650799,0,None
+2025-11-01,DJI,Djibouti,Developing,Africa,0.1642570056650799,0,None
+2025-12-01,DJI,Djibouti,Developing,Africa,0.1642570056650799,0,None
+2025-06-01,DMA,Dominica,Developing,America,0.05462549997552851,0,None
+2025-07-01,DMA,Dominica,Developing,America,0.05462549997552851,0,None
+2025-08-01,DMA,Dominica,Developing,America,0.05462549997552851,0,None
+2025-09-01,DMA,Dominica,Developing,America,0.05462549997552851,0,None
+2025-10-01,DMA,Dominica,Developing,America,0.05462549997552851,0,None
+2025-11-01,DMA,Dominica,Developing,America,0.05462549997552851,0,None
+2025-12-01,DMA,Dominica,Developing,America,0.05462549997552851,0,None
+2025-06-01,DNK,Denmark,Developed,Europe,0.12496273554017827,0,None
+2025-07-01,DNK,Denmark,Developed,Europe,0.12496273554017827,0,None
+2025-08-01,DNK,Denmark,Developed,Europe,0.12496273554017827,0,None
+2025-09-01,DNK,Denmark,Developed,Europe,0.12496273554017827,0,None
+2025-10-01,DNK,Denmark,Developed,Europe,0.12496273554017827,0,None
+2025-11-01,DNK,Denmark,Developed,Europe,0.12496273554017827,0,None
+2025-12-01,DNK,Denmark,Developed,Europe,0.12496273554017827,0,None
+2025-06-01,DOM,Dominican Republic (the),Developing,America,-0.23754421672475814,0,None
+2025-07-01,DOM,Dominican Republic (the),Developing,America,-0.23754421672475814,0,None
+2025-08-01,DOM,Dominican Republic (the),Developing,America,-0.23754421672475814,0,None
+2025-09-01,DOM,Dominican Republic (the),Developing,America,-0.23754421672475814,0,None
+2025-10-01,DOM,Dominican Republic (the),Developing,America,-0.23754421672475814,0,None
+2025-11-01,DOM,Dominican Republic (the),Developing,America,-0.23754421672475814,0,None
+2025-12-01,DOM,Dominican Republic (the),Developing,America,-0.23754421672475814,0,None
+2025-06-01,DZA,Algeria,Developing,Africa,-0.0677899240368304,0,None
+2025-07-01,DZA,Algeria,Developing,Africa,-0.0677899240368304,0,None
+2025-08-01,DZA,Algeria,Developing,Africa,-0.0677899240368304,0,None
+2025-09-01,DZA,Algeria,Developing,Africa,-0.0677899240368304,0,None
+2025-10-01,DZA,Algeria,Developing,Africa,-0.0677899240368304,0,None
+2025-11-01,DZA,Algeria,Developing,Africa,-0.0677899240368304,0,None
+2025-12-01,DZA,Algeria,Developing,Africa,-0.0677899240368304,0,None
+2025-06-01,ECU,Ecuador,Developing,America,0.49062564371287065,0,None
+2025-07-01,ECU,Ecuador,Developing,America,0.49062564371287065,0,None
+2025-08-01,ECU,Ecuador,Developing,America,0.49062564371287065,0,None
+2025-09-01,ECU,Ecuador,Developing,America,0.49062564371287065,0,None
+2025-10-01,ECU,Ecuador,Developing,America,0.49062564371287065,0,None
+2025-11-01,ECU,Ecuador,Developing,America,0.49062564371287065,0,None
+2025-12-01,ECU,Ecuador,Developing,America,0.49062564371287065,0,None
+2025-06-01,EGY,Egypt,Developing,Africa,-0.23328168179735123,0,None
+2025-07-01,EGY,Egypt,Developing,Africa,-0.23328168179735123,0,None
+2025-08-01,EGY,Egypt,Developing,Africa,-0.23328168179735123,0,None
+2025-09-01,EGY,Egypt,Developing,Africa,-0.23328168179735123,0,None
+2025-10-01,EGY,Egypt,Developing,Africa,-0.23328168179735123,0,None
+2025-11-01,EGY,Egypt,Developing,Africa,-0.23328168179735123,0,None
+2025-12-01,EGY,Egypt,Developing,Africa,-0.23328168179735123,0,None
+2025-06-01,ERI,Eritrea,Developing,Africa,0.09875658552682266,0,None
+2025-07-01,ERI,Eritrea,Developing,Africa,0.09875658552682266,0,None
+2025-08-01,ERI,Eritrea,Developing,Africa,0.09875658552682266,0,None
+2025-09-01,ERI,Eritrea,Developing,Africa,0.09875658552682266,0,None
+2025-10-01,ERI,Eritrea,Developing,Africa,0.09875658552682266,0,None
+2025-11-01,ERI,Eritrea,Developing,Africa,0.09875658552682266,0,None
+2025-12-01,ERI,Eritrea,Developing,Africa,0.09875658552682266,0,None
+2025-06-01,ESP,Spain,Developed,Europe,0.03319644367199095,0,None
+2025-07-01,ESP,Spain,Developed,Europe,0.03319644367199095,0,None
+2025-08-01,ESP,Spain,Developed,Europe,0.03319644367199095,0,None
+2025-09-01,ESP,Spain,Developed,Europe,0.03319644367199095,0,None
+2025-10-01,ESP,Spain,Developed,Europe,0.03319644367199095,0,None
+2025-11-01,ESP,Spain,Developed,Europe,0.03319644367199095,0,None
+2025-12-01,ESP,Spain,Developed,Europe,0.03319644367199095,0,None
+2025-06-01,EST,Estonia,Developed,Europe,-0.14503331879976142,0,None
+2025-07-01,EST,Estonia,Developed,Europe,-0.14503331879976142,0,None
+2025-08-01,EST,Estonia,Developed,Europe,-0.14503331879976142,0,None
+2025-09-01,EST,Estonia,Developed,Europe,-0.14503331879976142,0,None
+2025-10-01,EST,Estonia,Developed,Europe,-0.14503331879976142,0,None
+2025-11-01,EST,Estonia,Developed,Europe,-0.14503331879976142,0,None
+2025-12-01,EST,Estonia,Developed,Europe,-0.14503331879976142,0,None
+2025-06-01,ETH,Ethiopia,Developing,Africa,-0.5537704098359179,0,None
+2025-07-01,ETH,Ethiopia,Developing,Africa,-0.5537704098359179,0,None
+2025-08-01,ETH,Ethiopia,Developing,Africa,-0.5537704098359179,0,None
+2025-09-01,ETH,Ethiopia,Developing,Africa,-0.5537704098359179,0,None
+2025-10-01,ETH,Ethiopia,Developing,Africa,-0.5537704098359179,0,None
+2025-11-01,ETH,Ethiopia,Developing,Africa,-0.5537704098359179,0,None
+2025-12-01,ETH,Ethiopia,Developing,Africa,-0.5537704098359179,0,None
+2025-06-01,FIN,Finland,Developed,Europe,0.10908427612177889,0,None
+2025-07-01,FIN,Finland,Developed,Europe,0.10908427612177889,0,None
+2025-08-01,FIN,Finland,Developed,Europe,0.10908427612177889,0,None
+2025-09-01,FIN,Finland,Developed,Europe,0.10908427612177889,0,None
+2025-10-01,FIN,Finland,Developed,Europe,0.10908427612177889,0,None
+2025-11-01,FIN,Finland,Developed,Europe,0.10908427612177889,0,None
+2025-12-01,FIN,Finland,Developed,Europe,0.10908427612177889,0,None
+2025-06-01,FJI,Fiji,Developing,Asia and Oceania,0.1235665924099333,0,None
+2025-07-01,FJI,Fiji,Developing,Asia and Oceania,0.1235665924099333,0,None
+2025-08-01,FJI,Fiji,Developing,Asia and Oceania,0.1235665924099333,0,None
+2025-09-01,FJI,Fiji,Developing,Asia and Oceania,0.1235665924099333,0,None
+2025-10-01,FJI,Fiji,Developing,Asia and Oceania,0.1235665924099333,0,None
+2025-11-01,FJI,Fiji,Developing,Asia and Oceania,0.1235665924099333,0,None
+2025-12-01,FJI,Fiji,Developing,Asia and Oceania,0.1235665924099333,0,None
+2025-06-01,FRA,France,Developed,Europe,0.1164847866442788,0,None
+2025-07-01,FRA,France,Developed,Europe,0.1164847866442788,0,None
+2025-08-01,FRA,France,Developed,Europe,0.1164847866442788,0,None
+2025-09-01,FRA,France,Developed,Europe,0.1164847866442788,0,None
+2025-10-01,FRA,France,Developed,Europe,0.1164847866442788,0,None
+2025-11-01,FRA,France,Developed,Europe,0.1164847866442788,0,None
+2025-12-01,FRA,France,Developed,Europe,0.1164847866442788,0,None
+2025-06-01,FSM,Micronesia (Federated States of),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-07-01,FSM,Micronesia (Federated States of),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-08-01,FSM,Micronesia (Federated States of),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-09-01,FSM,Micronesia (Federated States of),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-10-01,FSM,Micronesia (Federated States of),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-11-01,FSM,Micronesia (Federated States of),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-12-01,FSM,Micronesia (Federated States of),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-06-01,GAB,Gabon,Developing,Africa,0.3408172682396101,0,None
+2025-07-01,GAB,Gabon,Developing,Africa,0.3408172682396101,0,None
+2025-08-01,GAB,Gabon,Developing,Africa,0.3408172682396101,0,None
+2025-09-01,GAB,Gabon,Developing,Africa,0.3408172682396101,0,None
+2025-10-01,GAB,Gabon,Developing,Africa,0.3408172682396101,0,None
+2025-11-01,GAB,Gabon,Developing,Africa,0.3408172682396101,0,None
+2025-12-01,GAB,Gabon,Developing,Africa,0.3408172682396101,0,None
+2025-06-01,GBR,United Kingdom of Great Britain and Northern Ireland (the),Developed,Europe,-0.016357274531247787,0,None
+2025-07-01,GBR,United Kingdom of Great Britain and Northern Ireland (the),Developed,Europe,-0.016357274531247787,0,None
+2025-08-01,GBR,United Kingdom of Great Britain and Northern Ireland (the),Developed,Europe,-0.016357274531247787,0,None
+2025-09-01,GBR,United Kingdom of Great Britain and Northern Ireland (the),Developed,Europe,-0.016357274531247787,0,None
+2025-10-01,GBR,United Kingdom of Great Britain and Northern Ireland (the),Developed,Europe,-0.016357274531247787,0,None
+2025-11-01,GBR,United Kingdom of Great Britain and Northern Ireland (the),Developed,Europe,-0.016357274531247787,0,None
+2025-12-01,GBR,United Kingdom of Great Britain and Northern Ireland (the),Developed,Europe,-0.016357274531247787,0,None
+2025-06-01,GEO,Georgia,Developing,Asia and Oceania,-0.2028481496432116,0,None
+2025-07-01,GEO,Georgia,Developing,Asia and Oceania,-0.2028481496432116,0,None
+2025-08-01,GEO,Georgia,Developing,Asia and Oceania,-0.2028481496432116,0,None
+2025-09-01,GEO,Georgia,Developing,Asia and Oceania,-0.2028481496432116,0,None
+2025-10-01,GEO,Georgia,Developing,Asia and Oceania,-0.2028481496432116,0,None
+2025-11-01,GEO,Georgia,Developing,Asia and Oceania,-0.2028481496432116,0,None
+2025-12-01,GEO,Georgia,Developing,Asia and Oceania,-0.2028481496432116,0,None
+2025-06-01,GHA,Ghana,Developing,Africa,-0.4004886191969742,0,None
+2025-07-01,GHA,Ghana,Developing,Africa,-0.4004886191969742,0,None
+2025-08-01,GHA,Ghana,Developing,Africa,-0.4004886191969742,0,None
+2025-09-01,GHA,Ghana,Developing,Africa,-0.4004886191969742,0,None
+2025-10-01,GHA,Ghana,Developing,Africa,-0.4004886191969742,0,None
+2025-11-01,GHA,Ghana,Developing,Africa,-0.4004886191969742,0,None
+2025-12-01,GHA,Ghana,Developing,Africa,-0.4004886191969742,0,None
+2025-06-01,GIN,Guinea,Developing,Africa,-0.5192899339750567,0,None
+2025-07-01,GIN,Guinea,Developing,Africa,-0.5192899339750567,0,None
+2025-08-01,GIN,Guinea,Developing,Africa,-0.5192899339750567,0,None
+2025-09-01,GIN,Guinea,Developing,Africa,-0.5192899339750567,0,None
+2025-10-01,GIN,Guinea,Developing,Africa,-0.5192899339750567,0,None
+2025-11-01,GIN,Guinea,Developing,Africa,-0.5192899339750567,0,None
+2025-12-01,GIN,Guinea,Developing,Africa,-0.5192899339750567,0,None
+2025-06-01,GMB,Gambia (the),Developing,Africa,-0.3675895294436322,0,None
+2025-07-01,GMB,Gambia (the),Developing,Africa,-0.3675895294436322,0,None
+2025-08-01,GMB,Gambia (the),Developing,Africa,-0.3675895294436322,0,None
+2025-09-01,GMB,Gambia (the),Developing,Africa,-0.3675895294436322,0,None
+2025-10-01,GMB,Gambia (the),Developing,Africa,-0.3675895294436322,0,None
+2025-11-01,GMB,Gambia (the),Developing,Africa,-0.3675895294436322,0,None
+2025-12-01,GMB,Gambia (the),Developing,Africa,-0.3675895294436322,0,None
+2025-06-01,GNB,Guinea-Bissau,Developing,Africa,0.08576651010066645,0,None
+2025-07-01,GNB,Guinea-Bissau,Developing,Africa,0.08576651010066645,0,None
+2025-08-01,GNB,Guinea-Bissau,Developing,Africa,0.08576651010066645,0,None
+2025-09-01,GNB,Guinea-Bissau,Developing,Africa,0.08576651010066645,0,None
+2025-10-01,GNB,Guinea-Bissau,Developing,Africa,0.08576651010066645,0,None
+2025-11-01,GNB,Guinea-Bissau,Developing,Africa,0.08576651010066645,0,None
+2025-12-01,GNB,Guinea-Bissau,Developing,Africa,0.08576651010066645,0,None
+2025-06-01,GNQ,Equatorial Guinea,Developing,Africa,0.31471566805301043,0,None
+2025-07-01,GNQ,Equatorial Guinea,Developing,Africa,0.31471566805301043,0,None
+2025-08-01,GNQ,Equatorial Guinea,Developing,Africa,0.31471566805301043,0,None
+2025-09-01,GNQ,Equatorial Guinea,Developing,Africa,0.31471566805301043,0,None
+2025-10-01,GNQ,Equatorial Guinea,Developing,Africa,0.31471566805301043,0,None
+2025-11-01,GNQ,Equatorial Guinea,Developing,Africa,0.31471566805301043,0,None
+2025-12-01,GNQ,Equatorial Guinea,Developing,Africa,0.31471566805301043,0,None
+2025-06-01,GRC,Greece,Developed,Europe,0.06506112911641551,0,None
+2025-07-01,GRC,Greece,Developed,Europe,0.06506112911641551,0,None
+2025-08-01,GRC,Greece,Developed,Europe,0.06506112911641551,0,None
+2025-09-01,GRC,Greece,Developed,Europe,0.06506112911641551,0,None
+2025-10-01,GRC,Greece,Developed,Europe,0.06506112911641551,0,None
+2025-11-01,GRC,Greece,Developed,Europe,0.06506112911641551,0,None
+2025-12-01,GRC,Greece,Developed,Europe,0.06506112911641551,0,None
+2025-06-01,GRD,Grenada,Developing,America,0.26268363567599673,0,None
+2025-07-01,GRD,Grenada,Developing,America,0.26268363567599673,0,None
+2025-08-01,GRD,Grenada,Developing,America,0.26268363567599673,0,None
+2025-09-01,GRD,Grenada,Developing,America,0.26268363567599673,0,None
+2025-10-01,GRD,Grenada,Developing,America,0.26268363567599673,0,None
+2025-11-01,GRD,Grenada,Developing,America,0.26268363567599673,0,None
+2025-12-01,GRD,Grenada,Developing,America,0.26268363567599673,0,None
+2025-06-01,GTM,Guatemala,Developing,America,-0.14035265916921016,0,None
+2025-07-01,GTM,Guatemala,Developing,America,-0.14035265916921016,0,None
+2025-08-01,GTM,Guatemala,Developing,America,-0.14035265916921016,0,None
+2025-09-01,GTM,Guatemala,Developing,America,-0.14035265916921016,0,None
+2025-10-01,GTM,Guatemala,Developing,America,-0.14035265916921016,0,None
+2025-11-01,GTM,Guatemala,Developing,America,-0.14035265916921016,0,None
+2025-12-01,GTM,Guatemala,Developing,America,-0.14035265916921016,0,None
+2025-06-01,GUY,Guyana,Developing,America,0.03664553081408043,0,None
+2025-07-01,GUY,Guyana,Developing,America,0.03664553081408043,0,None
+2025-08-01,GUY,Guyana,Developing,America,0.03664553081408043,0,None
+2025-09-01,GUY,Guyana,Developing,America,0.03664553081408043,0,None
+2025-10-01,GUY,Guyana,Developing,America,0.03664553081408043,0,None
+2025-11-01,GUY,Guyana,Developing,America,0.03664553081408043,0,None
+2025-12-01,GUY,Guyana,Developing,America,0.03664553081408043,0,None
+2025-06-01,HND,Honduras,Developing,America,-0.19995901889294196,0,None
+2025-07-01,HND,Honduras,Developing,America,-0.19995901889294196,0,None
+2025-08-01,HND,Honduras,Developing,America,-0.19995901889294196,0,None
+2025-09-01,HND,Honduras,Developing,America,-0.19995901889294196,0,None
+2025-10-01,HND,Honduras,Developing,America,-0.19995901889294196,0,None
+2025-11-01,HND,Honduras,Developing,America,-0.19995901889294196,0,None
+2025-12-01,HND,Honduras,Developing,America,-0.19995901889294196,0,None
+2025-06-01,HRV,Croatia,Developed,Europe,-0.05617887621532518,0,None
+2025-07-01,HRV,Croatia,Developed,Europe,-0.05617887621532518,0,None
+2025-08-01,HRV,Croatia,Developed,Europe,-0.05617887621532518,0,None
+2025-09-01,HRV,Croatia,Developed,Europe,-0.05617887621532518,0,None
+2025-10-01,HRV,Croatia,Developed,Europe,-0.05617887621532518,0,None
+2025-11-01,HRV,Croatia,Developed,Europe,-0.05617887621532518,0,None
+2025-12-01,HRV,Croatia,Developed,Europe,-0.05617887621532518,0,None
+2025-06-01,HTI,Haiti,Developing,America,-0.2990520212338017,0,None
+2025-07-01,HTI,Haiti,Developing,America,-0.2990520212338017,0,None
+2025-08-01,HTI,Haiti,Developing,America,-0.2990520212338017,0,None
+2025-09-01,HTI,Haiti,Developing,America,-0.2990520212338017,0,None
+2025-10-01,HTI,Haiti,Developing,America,-0.2990520212338017,0,None
+2025-11-01,HTI,Haiti,Developing,America,-0.2990520212338017,0,None
+2025-12-01,HTI,Haiti,Developing,America,-0.2990520212338017,0,None
+2025-06-01,HUN,Hungary,Developed,Europe,-0.2243386677458005,0,None
+2025-07-01,HUN,Hungary,Developed,Europe,-0.2243386677458005,0,None
+2025-08-01,HUN,Hungary,Developed,Europe,-0.2243386677458005,0,None
+2025-09-01,HUN,Hungary,Developed,Europe,-0.2243386677458005,0,None
+2025-10-01,HUN,Hungary,Developed,Europe,-0.2243386677458005,0,None
+2025-11-01,HUN,Hungary,Developed,Europe,-0.2243386677458005,0,None
+2025-12-01,HUN,Hungary,Developed,Europe,-0.2243386677458005,0,None
+2025-06-01,IDN,Indonesia,Developing,Asia and Oceania,0.19346630816881524,0,None
+2025-07-01,IDN,Indonesia,Developing,Asia and Oceania,0.19346630816881524,0,None
+2025-08-01,IDN,Indonesia,Developing,Asia and Oceania,0.19346630816881524,0,None
+2025-09-01,IDN,Indonesia,Developing,Asia and Oceania,0.19346630816881524,0,None
+2025-10-01,IDN,Indonesia,Developing,Asia and Oceania,0.19346630816881524,0,None
+2025-11-01,IDN,Indonesia,Developing,Asia and Oceania,0.19346630816881524,0,None
+2025-12-01,IDN,Indonesia,Developing,Asia and Oceania,0.19346630816881524,0,None
+2025-06-01,IND,India,Developing,Asia and Oceania,-0.3000800213477248,0,None
+2025-07-01,IND,India,Developing,Asia and Oceania,-0.3000800213477248,0,None
+2025-08-01,IND,India,Developing,Asia and Oceania,-0.3000800213477248,0,None
+2025-09-01,IND,India,Developing,Asia and Oceania,-0.3000800213477248,0,None
+2025-10-01,IND,India,Developing,Asia and Oceania,-0.3000800213477248,0,None
+2025-11-01,IND,India,Developing,Asia and Oceania,-0.3000800213477248,0,None
+2025-12-01,IND,India,Developing,Asia and Oceania,-0.3000800213477248,0,None
+2025-06-01,IRL,Ireland,Developed,Europe,0.15309090255308297,0,None
+2025-07-01,IRL,Ireland,Developed,Europe,0.15309090255308297,0,None
+2025-08-01,IRL,Ireland,Developed,Europe,0.15309090255308297,0,None
+2025-09-01,IRL,Ireland,Developed,Europe,0.15309090255308297,0,None
+2025-10-01,IRL,Ireland,Developed,Europe,0.15309090255308297,0,None
+2025-11-01,IRL,Ireland,Developed,Europe,0.15309090255308297,0,None
+2025-12-01,IRL,Ireland,Developed,Europe,0.15309090255308297,0,None
+2025-06-01,IRN,Iran (Islamic Republic of),Developing,Asia and Oceania,-0.2897820370279032,0,None
+2025-07-01,IRN,Iran (Islamic Republic of),Developing,Asia and Oceania,-0.2897820370279032,0,None
+2025-08-01,IRN,Iran (Islamic Republic of),Developing,Asia and Oceania,-0.2897820370279032,0,None
+2025-09-01,IRN,Iran (Islamic Republic of),Developing,Asia and Oceania,-0.2897820370279032,0,None
+2025-10-01,IRN,Iran (Islamic Republic of),Developing,Asia and Oceania,-0.2897820370279032,0,None
+2025-11-01,IRN,Iran (Islamic Republic of),Developing,Asia and Oceania,-0.2897820370279032,0,None
+2025-12-01,IRN,Iran (Islamic Republic of),Developing,Asia and Oceania,-0.2897820370279032,0,None
+2025-06-01,IRQ,Iraq,Developing,Asia and Oceania,0.11015588258046087,0,None
+2025-07-01,IRQ,Iraq,Developing,Asia and Oceania,0.11015588258046087,0,None
+2025-08-01,IRQ,Iraq,Developing,Asia and Oceania,0.11015588258046087,0,None
+2025-09-01,IRQ,Iraq,Developing,Asia and Oceania,0.11015588258046087,0,None
+2025-10-01,IRQ,Iraq,Developing,Asia and Oceania,0.11015588258046087,0,None
+2025-11-01,IRQ,Iraq,Developing,Asia and Oceania,0.11015588258046087,0,None
+2025-12-01,IRQ,Iraq,Developing,Asia and Oceania,0.11015588258046087,0,None
+2025-06-01,ISL,Iceland,Developed,Europe,-0.20720568307849122,0,None
+2025-07-01,ISL,Iceland,Developed,Europe,-0.20720568307849122,0,None
+2025-08-01,ISL,Iceland,Developed,Europe,-0.20720568307849122,0,None
+2025-09-01,ISL,Iceland,Developed,Europe,-0.20720568307849122,0,None
+2025-10-01,ISL,Iceland,Developed,Europe,-0.20720568307849122,0,None
+2025-11-01,ISL,Iceland,Developed,Europe,-0.20720568307849122,0,None
+2025-12-01,ISL,Iceland,Developed,Europe,-0.20720568307849122,0,None
+2025-06-01,ISR,Israel,Developed,Asia and Oceania,0.3404825544575939,0,None
+2025-07-01,ISR,Israel,Developed,Asia and Oceania,0.3404825544575939,0,None
+2025-08-01,ISR,Israel,Developed,Asia and Oceania,0.3404825544575939,0,None
+2025-09-01,ISR,Israel,Developed,Asia and Oceania,0.3404825544575939,0,None
+2025-10-01,ISR,Israel,Developed,Asia and Oceania,0.3404825544575939,0,None
+2025-11-01,ISR,Israel,Developed,Asia and Oceania,0.3404825544575939,0,None
+2025-12-01,ISR,Israel,Developed,Asia and Oceania,0.3404825544575939,0,None
+2025-06-01,ITA,Italy,Developed,Europe,0.10750045878631187,0,None
+2025-07-01,ITA,Italy,Developed,Europe,0.10750045878631187,0,None
+2025-08-01,ITA,Italy,Developed,Europe,0.10750045878631187,0,None
+2025-09-01,ITA,Italy,Developed,Europe,0.10750045878631187,0,None
+2025-10-01,ITA,Italy,Developed,Europe,0.10750045878631187,0,None
+2025-11-01,ITA,Italy,Developed,Europe,0.10750045878631187,0,None
+2025-12-01,ITA,Italy,Developed,Europe,0.10750045878631187,0,None
+2025-06-01,JAM,Jamaica,Developing,America,-0.3796730776518784,0,None
+2025-07-01,JAM,Jamaica,Developing,America,-0.3796730776518784,0,None
+2025-08-01,JAM,Jamaica,Developing,America,-0.3796730776518784,0,None
+2025-09-01,JAM,Jamaica,Developing,America,-0.3796730776518784,0,None
+2025-10-01,JAM,Jamaica,Developing,America,-0.3796730776518784,0,None
+2025-11-01,JAM,Jamaica,Developing,America,-0.3796730776518784,0,None
+2025-12-01,JAM,Jamaica,Developing,America,-0.3796730776518784,0,None
+2025-06-01,JOR,Jordan,Developing,Asia and Oceania,0.5991584672226622,1,Food Insecurity
+2025-07-01,JOR,Jordan,Developing,Asia and Oceania,0.5991584672226622,1,Food Insecurity
+2025-08-01,JOR,Jordan,Developing,Asia and Oceania,0.5991584672226622,1,Food Insecurity
+2025-09-01,JOR,Jordan,Developing,Asia and Oceania,0.5991584672226622,1,Food Insecurity
+2025-10-01,JOR,Jordan,Developing,Asia and Oceania,0.5991584672226622,1,Food Insecurity
+2025-11-01,JOR,Jordan,Developing,Asia and Oceania,0.5991584672226622,1,Food Insecurity
+2025-12-01,JOR,Jordan,Developing,Asia and Oceania,0.5991584672226622,1,Food Insecurity
+2025-06-01,JPN,Japan,Developed,Asia and Oceania,0.4580699011967637,0,None
+2025-07-01,JPN,Japan,Developed,Asia and Oceania,0.4580699011967637,0,None
+2025-08-01,JPN,Japan,Developed,Asia and Oceania,0.4580699011967637,0,None
+2025-09-01,JPN,Japan,Developed,Asia and Oceania,0.4580699011967637,0,None
+2025-10-01,JPN,Japan,Developed,Asia and Oceania,0.4580699011967637,0,None
+2025-11-01,JPN,Japan,Developed,Asia and Oceania,0.4580699011967637,0,None
+2025-12-01,JPN,Japan,Developed,Asia and Oceania,0.4580699011967637,0,None
+2025-06-01,KAZ,Kazakhstan,Developing,Asia and Oceania,-0.4257480599477392,0,None
+2025-07-01,KAZ,Kazakhstan,Developing,Asia and Oceania,-0.4257480599477392,0,None
+2025-08-01,KAZ,Kazakhstan,Developing,Asia and Oceania,-0.4257480599477392,0,None
+2025-09-01,KAZ,Kazakhstan,Developing,Asia and Oceania,-0.4257480599477392,0,None
+2025-10-01,KAZ,Kazakhstan,Developing,Asia and Oceania,-0.4257480599477392,0,None
+2025-11-01,KAZ,Kazakhstan,Developing,Asia and Oceania,-0.4257480599477392,0,None
+2025-12-01,KAZ,Kazakhstan,Developing,Asia and Oceania,-0.4257480599477392,0,None
+2025-06-01,KEN,Kenya,Developing,Africa,-0.3706733403697198,0,None
+2025-07-01,KEN,Kenya,Developing,Africa,-0.3706733403697198,0,None
+2025-08-01,KEN,Kenya,Developing,Africa,-0.3706733403697198,0,None
+2025-09-01,KEN,Kenya,Developing,Africa,-0.3706733403697198,0,None
+2025-10-01,KEN,Kenya,Developing,Africa,-0.3706733403697198,0,None
+2025-11-01,KEN,Kenya,Developing,Africa,-0.3706733403697198,0,None
+2025-12-01,KEN,Kenya,Developing,Africa,-0.3706733403697198,0,None
+2025-06-01,KGZ,Kyrgyzstan,Developing,Asia and Oceania,-0.16416741494528878,0,None
+2025-07-01,KGZ,Kyrgyzstan,Developing,Asia and Oceania,-0.16416741494528878,0,None
+2025-08-01,KGZ,Kyrgyzstan,Developing,Asia and Oceania,-0.16416741494528878,0,None
+2025-09-01,KGZ,Kyrgyzstan,Developing,Asia and Oceania,-0.16416741494528878,0,None
+2025-10-01,KGZ,Kyrgyzstan,Developing,Asia and Oceania,-0.16416741494528878,0,None
+2025-11-01,KGZ,Kyrgyzstan,Developing,Asia and Oceania,-0.16416741494528878,0,None
+2025-12-01,KGZ,Kyrgyzstan,Developing,Asia and Oceania,-0.16416741494528878,0,None
+2025-06-01,KHM,Cambodia,Developing,Asia and Oceania,0.10830951832109549,0,None
+2025-07-01,KHM,Cambodia,Developing,Asia and Oceania,0.10830951832109549,0,None
+2025-08-01,KHM,Cambodia,Developing,Asia and Oceania,0.10830951832109549,0,None
+2025-09-01,KHM,Cambodia,Developing,Asia and Oceania,0.10830951832109549,0,None
+2025-10-01,KHM,Cambodia,Developing,Asia and Oceania,0.10830951832109549,0,None
+2025-11-01,KHM,Cambodia,Developing,Asia and Oceania,0.10830951832109549,0,None
+2025-12-01,KHM,Cambodia,Developing,Asia and Oceania,0.10830951832109549,0,None
+2025-06-01,KIR,Kiribati,Developing,Asia and Oceania,0.01339743102993688,0,None
+2025-07-01,KIR,Kiribati,Developing,Asia and Oceania,0.01339743102993688,0,None
+2025-08-01,KIR,Kiribati,Developing,Asia and Oceania,0.01339743102993688,0,None
+2025-09-01,KIR,Kiribati,Developing,Asia and Oceania,0.01339743102993688,0,None
+2025-10-01,KIR,Kiribati,Developing,Asia and Oceania,0.01339743102993688,0,None
+2025-11-01,KIR,Kiribati,Developing,Asia and Oceania,0.01339743102993688,0,None
+2025-12-01,KIR,Kiribati,Developing,Asia and Oceania,0.01339743102993688,0,None
+2025-06-01,KNA,Saint Kitts and Nevis,Developing,America,0.21889487894196283,0,None
+2025-07-01,KNA,Saint Kitts and Nevis,Developing,America,0.21889487894196283,0,None
+2025-08-01,KNA,Saint Kitts and Nevis,Developing,America,0.21889487894196283,0,None
+2025-09-01,KNA,Saint Kitts and Nevis,Developing,America,0.21889487894196283,0,None
+2025-10-01,KNA,Saint Kitts and Nevis,Developing,America,0.21889487894196283,0,None
+2025-11-01,KNA,Saint Kitts and Nevis,Developing,America,0.21889487894196283,0,None
+2025-12-01,KNA,Saint Kitts and Nevis,Developing,America,0.21889487894196283,0,None
+2025-06-01,KOR,Korea (the Republic of),Developed,Asia and Oceania,0.20985518492701696,0,None
+2025-07-01,KOR,Korea (the Republic of),Developed,Asia and Oceania,0.20985518492701696,0,None
+2025-08-01,KOR,Korea (the Republic of),Developed,Asia and Oceania,0.20985518492701696,0,None
+2025-09-01,KOR,Korea (the Republic of),Developed,Asia and Oceania,0.20985518492701696,0,None
+2025-10-01,KOR,Korea (the Republic of),Developed,Asia and Oceania,0.20985518492701696,0,None
+2025-11-01,KOR,Korea (the Republic of),Developed,Asia and Oceania,0.20985518492701696,0,None
+2025-12-01,KOR,Korea (the Republic of),Developed,Asia and Oceania,0.20985518492701696,0,None
+2025-06-01,KWT,Kuwait,Developing,Asia and Oceania,0.0923522444720842,0,None
+2025-07-01,KWT,Kuwait,Developing,Asia and Oceania,0.0923522444720842,0,None
+2025-08-01,KWT,Kuwait,Developing,Asia and Oceania,0.0923522444720842,0,None
+2025-09-01,KWT,Kuwait,Developing,Asia and Oceania,0.0923522444720842,0,None
+2025-10-01,KWT,Kuwait,Developing,Asia and Oceania,0.0923522444720842,0,None
+2025-11-01,KWT,Kuwait,Developing,Asia and Oceania,0.0923522444720842,0,None
+2025-12-01,KWT,Kuwait,Developing,Asia and Oceania,0.0923522444720842,0,None
+2025-06-01,LAO,Lao People's Democratic Republic (the),Developing,Asia and Oceania,-0.1540477221063057,0,None
+2025-07-01,LAO,Lao People's Democratic Republic (the),Developing,Asia and Oceania,-0.1540477221063057,0,None
+2025-08-01,LAO,Lao People's Democratic Republic (the),Developing,Asia and Oceania,-0.1540477221063057,0,None
+2025-09-01,LAO,Lao People's Democratic Republic (the),Developing,Asia and Oceania,-0.1540477221063057,0,None
+2025-10-01,LAO,Lao People's Democratic Republic (the),Developing,Asia and Oceania,-0.1540477221063057,0,None
+2025-11-01,LAO,Lao People's Democratic Republic (the),Developing,Asia and Oceania,-0.1540477221063057,0,None
+2025-12-01,LAO,Lao People's Democratic Republic (the),Developing,Asia and Oceania,-0.1540477221063057,0,None
+2025-06-01,LBN,Lebanon,Developing,Asia and Oceania,-0.4903464330996734,0,None
+2025-07-01,LBN,Lebanon,Developing,Asia and Oceania,-0.4903464330996734,0,None
+2025-08-01,LBN,Lebanon,Developing,Asia and Oceania,-0.4903464330996734,0,None
+2025-09-01,LBN,Lebanon,Developing,Asia and Oceania,-0.4903464330996734,0,None
+2025-10-01,LBN,Lebanon,Developing,Asia and Oceania,-0.4903464330996734,0,None
+2025-11-01,LBN,Lebanon,Developing,Asia and Oceania,-0.4903464330996734,0,None
+2025-12-01,LBN,Lebanon,Developing,Asia and Oceania,-0.4903464330996734,0,None
+2025-06-01,LBR,Liberia,Developing,Africa,-0.20385112075887454,0,None
+2025-07-01,LBR,Liberia,Developing,Africa,-0.20385112075887454,0,None
+2025-08-01,LBR,Liberia,Developing,Africa,-0.20385112075887454,0,None
+2025-09-01,LBR,Liberia,Developing,Africa,-0.20385112075887454,0,None
+2025-10-01,LBR,Liberia,Developing,Africa,-0.20385112075887454,0,None
+2025-11-01,LBR,Liberia,Developing,Africa,-0.20385112075887454,0,None
+2025-12-01,LBR,Liberia,Developing,Africa,-0.20385112075887454,0,None
+2025-06-01,LBY,Libya,Developing,Africa,0.44897589761950807,0,None
+2025-07-01,LBY,Libya,Developing,Africa,0.44897589761950807,0,None
+2025-08-01,LBY,Libya,Developing,Africa,0.44897589761950807,0,None
+2025-09-01,LBY,Libya,Developing,Africa,0.44897589761950807,0,None
+2025-10-01,LBY,Libya,Developing,Africa,0.44897589761950807,0,None
+2025-11-01,LBY,Libya,Developing,Africa,0.44897589761950807,0,None
+2025-12-01,LBY,Libya,Developing,Africa,0.44897589761950807,0,None
+2025-06-01,LCA,Saint Lucia,Developing,America,0.09387940327470011,0,None
+2025-07-01,LCA,Saint Lucia,Developing,America,0.09387940327470011,0,None
+2025-08-01,LCA,Saint Lucia,Developing,America,0.09387940327470011,0,None
+2025-09-01,LCA,Saint Lucia,Developing,America,0.09387940327470011,0,None
+2025-10-01,LCA,Saint Lucia,Developing,America,0.09387940327470011,0,None
+2025-11-01,LCA,Saint Lucia,Developing,America,0.09387940327470011,0,None
+2025-12-01,LCA,Saint Lucia,Developing,America,0.09387940327470011,0,None
+2025-06-01,LKA,Sri Lanka,Developing,Asia and Oceania,-0.11408843846131596,0,None
+2025-07-01,LKA,Sri Lanka,Developing,Asia and Oceania,-0.11408843846131596,0,None
+2025-08-01,LKA,Sri Lanka,Developing,Asia and Oceania,-0.11408843846131596,0,None
+2025-09-01,LKA,Sri Lanka,Developing,Asia and Oceania,-0.11408843846131596,0,None
+2025-10-01,LKA,Sri Lanka,Developing,Asia and Oceania,-0.11408843846131596,0,None
+2025-11-01,LKA,Sri Lanka,Developing,Asia and Oceania,-0.11408843846131596,0,None
+2025-12-01,LKA,Sri Lanka,Developing,Asia and Oceania,-0.11408843846131596,0,None
+2025-06-01,LSO,Lesotho,Developing,Africa,-0.6002268073015335,0,None
+2025-07-01,LSO,Lesotho,Developing,Africa,-0.6002268073015335,0,None
+2025-08-01,LSO,Lesotho,Developing,Africa,-0.6002268073015335,0,None
+2025-09-01,LSO,Lesotho,Developing,Africa,-0.6002268073015335,0,None
+2025-10-01,LSO,Lesotho,Developing,Africa,-0.6002268073015335,0,None
+2025-11-01,LSO,Lesotho,Developing,Africa,-0.6002268073015335,0,None
+2025-12-01,LSO,Lesotho,Developing,Africa,-0.6002268073015335,0,None
+2025-06-01,LTU,Lithuania,Developed,Europe,-0.13032540093157224,0,None
+2025-07-01,LTU,Lithuania,Developed,Europe,-0.13032540093157224,0,None
+2025-08-01,LTU,Lithuania,Developed,Europe,-0.13032540093157224,0,None
+2025-09-01,LTU,Lithuania,Developed,Europe,-0.13032540093157224,0,None
+2025-10-01,LTU,Lithuania,Developed,Europe,-0.13032540093157224,0,None
+2025-11-01,LTU,Lithuania,Developed,Europe,-0.13032540093157224,0,None
+2025-12-01,LTU,Lithuania,Developed,Europe,-0.13032540093157224,0,None
+2025-06-01,LUX,Luxembourg,Developed,Europe,0.1522391717253028,0,None
+2025-07-01,LUX,Luxembourg,Developed,Europe,0.1522391717253028,0,None
+2025-08-01,LUX,Luxembourg,Developed,Europe,0.1522391717253028,0,None
+2025-09-01,LUX,Luxembourg,Developed,Europe,0.1522391717253028,0,None
+2025-10-01,LUX,Luxembourg,Developed,Europe,0.1522391717253028,0,None
+2025-11-01,LUX,Luxembourg,Developed,Europe,0.1522391717253028,0,None
+2025-12-01,LUX,Luxembourg,Developed,Europe,0.1522391717253028,0,None
+2025-06-01,LVA,Latvia,Developed,Europe,-0.25181831769460156,0,None
+2025-07-01,LVA,Latvia,Developed,Europe,-0.25181831769460156,0,None
+2025-08-01,LVA,Latvia,Developed,Europe,-0.25181831769460156,0,None
+2025-09-01,LVA,Latvia,Developed,Europe,-0.25181831769460156,0,None
+2025-10-01,LVA,Latvia,Developed,Europe,-0.25181831769460156,0,None
+2025-11-01,LVA,Latvia,Developed,Europe,-0.25181831769460156,0,None
+2025-12-01,LVA,Latvia,Developed,Europe,-0.25181831769460156,0,None
+2025-06-01,MAR,Morocco,Developing,Africa,0.20357989713412727,0,None
+2025-07-01,MAR,Morocco,Developing,Africa,0.20357989713412727,0,None
+2025-08-01,MAR,Morocco,Developing,Africa,0.20357989713412727,0,None
+2025-09-01,MAR,Morocco,Developing,Africa,0.20357989713412727,0,None
+2025-10-01,MAR,Morocco,Developing,Africa,0.20357989713412727,0,None
+2025-11-01,MAR,Morocco,Developing,Africa,0.20357989713412727,0,None
+2025-12-01,MAR,Morocco,Developing,Africa,0.20357989713412727,0,None
+2025-06-01,MDA,Moldova (the Republic of),Developed,Europe,-0.280121397853923,0,None
+2025-07-01,MDA,Moldova (the Republic of),Developed,Europe,-0.280121397853923,0,None
+2025-08-01,MDA,Moldova (the Republic of),Developed,Europe,-0.280121397853923,0,None
+2025-09-01,MDA,Moldova (the Republic of),Developed,Europe,-0.280121397853923,0,None
+2025-10-01,MDA,Moldova (the Republic of),Developed,Europe,-0.280121397853923,0,None
+2025-11-01,MDA,Moldova (the Republic of),Developed,Europe,-0.280121397853923,0,None
+2025-12-01,MDA,Moldova (the Republic of),Developed,Europe,-0.280121397853923,0,None
+2025-06-01,MDG,Madagascar,Developing,Africa,-0.2390443020945708,0,None
+2025-07-01,MDG,Madagascar,Developing,Africa,-0.2390443020945708,0,None
+2025-08-01,MDG,Madagascar,Developing,Africa,-0.2390443020945708,0,None
+2025-09-01,MDG,Madagascar,Developing,Africa,-0.2390443020945708,0,None
+2025-10-01,MDG,Madagascar,Developing,Africa,-0.2390443020945708,0,None
+2025-11-01,MDG,Madagascar,Developing,Africa,-0.2390443020945708,0,None
+2025-12-01,MDG,Madagascar,Developing,Africa,-0.2390443020945708,0,None
+2025-06-01,MDV,Maldives,Developing,Asia and Oceania,0.3543531828658637,0,None
+2025-07-01,MDV,Maldives,Developing,Asia and Oceania,0.3543531828658637,0,None
+2025-08-01,MDV,Maldives,Developing,Asia and Oceania,0.3543531828658637,0,None
+2025-09-01,MDV,Maldives,Developing,Asia and Oceania,0.3543531828658637,0,None
+2025-10-01,MDV,Maldives,Developing,Asia and Oceania,0.3543531828658637,0,None
+2025-11-01,MDV,Maldives,Developing,Asia and Oceania,0.3543531828658637,0,None
+2025-12-01,MDV,Maldives,Developing,Asia and Oceania,0.3543531828658637,0,None
+2025-06-01,MEX,Mexico,Developing,America,-0.31663636918202676,0,None
+2025-07-01,MEX,Mexico,Developing,America,-0.31663636918202676,0,None
+2025-08-01,MEX,Mexico,Developing,America,-0.31663636918202676,0,None
+2025-09-01,MEX,Mexico,Developing,America,-0.31663636918202676,0,None
+2025-10-01,MEX,Mexico,Developing,America,-0.31663636918202676,0,None
+2025-11-01,MEX,Mexico,Developing,America,-0.31663636918202676,0,None
+2025-12-01,MEX,Mexico,Developing,America,-0.31663636918202676,0,None
+2025-06-01,MHL,Marshall Islands (the),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-07-01,MHL,Marshall Islands (the),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-08-01,MHL,Marshall Islands (the),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-09-01,MHL,Marshall Islands (the),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-10-01,MHL,Marshall Islands (the),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-11-01,MHL,Marshall Islands (the),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-12-01,MHL,Marshall Islands (the),Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-06-01,MKD,North Macedonia,Developed,Europe,-0.11283918615274428,0,None
+2025-07-01,MKD,North Macedonia,Developed,Europe,-0.11283918615274428,0,None
+2025-08-01,MKD,North Macedonia,Developed,Europe,-0.11283918615274428,0,None
+2025-09-01,MKD,North Macedonia,Developed,Europe,-0.11283918615274428,0,None
+2025-10-01,MKD,North Macedonia,Developed,Europe,-0.11283918615274428,0,None
+2025-11-01,MKD,North Macedonia,Developed,Europe,-0.11283918615274428,0,None
+2025-12-01,MKD,North Macedonia,Developed,Europe,-0.11283918615274428,0,None
+2025-06-01,MLI,Mali,Developing,Africa,0.13058006586563223,0,None
+2025-07-01,MLI,Mali,Developing,Africa,0.13058006586563223,0,None
+2025-08-01,MLI,Mali,Developing,Africa,0.13058006586563223,0,None
+2025-09-01,MLI,Mali,Developing,Africa,0.13058006586563223,0,None
+2025-10-01,MLI,Mali,Developing,Africa,0.13058006586563223,0,None
+2025-11-01,MLI,Mali,Developing,Africa,0.13058006586563223,0,None
+2025-12-01,MLI,Mali,Developing,Africa,0.13058006586563223,0,None
+2025-06-01,MLT,Malta,Developed,Europe,0.047497259205441685,0,None
+2025-07-01,MLT,Malta,Developed,Europe,0.047497259205441685,0,None
+2025-08-01,MLT,Malta,Developed,Europe,0.047497259205441685,0,None
+2025-09-01,MLT,Malta,Developed,Europe,0.047497259205441685,0,None
+2025-10-01,MLT,Malta,Developed,Europe,0.047497259205441685,0,None
+2025-11-01,MLT,Malta,Developed,Europe,0.047497259205441685,0,None
+2025-12-01,MLT,Malta,Developed,Europe,0.047497259205441685,0,None
+2025-06-01,MMR,Myanmar,Developing,Asia and Oceania,-0.0896244662825179,0,None
+2025-07-01,MMR,Myanmar,Developing,Asia and Oceania,-0.0896244662825179,0,None
+2025-08-01,MMR,Myanmar,Developing,Asia and Oceania,-0.0896244662825179,0,None
+2025-09-01,MMR,Myanmar,Developing,Asia and Oceania,-0.0896244662825179,0,None
+2025-10-01,MMR,Myanmar,Developing,Asia and Oceania,-0.0896244662825179,0,None
+2025-11-01,MMR,Myanmar,Developing,Asia and Oceania,-0.0896244662825179,0,None
+2025-12-01,MMR,Myanmar,Developing,Asia and Oceania,-0.0896244662825179,0,None
+2025-06-01,MNE,Montenegro,Developed,Europe,-0.08426051974175859,0,None
+2025-07-01,MNE,Montenegro,Developed,Europe,-0.08426051974175859,0,None
+2025-08-01,MNE,Montenegro,Developed,Europe,-0.08426051974175859,0,None
+2025-09-01,MNE,Montenegro,Developed,Europe,-0.08426051974175859,0,None
+2025-10-01,MNE,Montenegro,Developed,Europe,-0.08426051974175859,0,None
+2025-11-01,MNE,Montenegro,Developed,Europe,-0.08426051974175859,0,None
+2025-12-01,MNE,Montenegro,Developed,Europe,-0.08426051974175859,0,None
+2025-06-01,MNG,Mongolia,Developing,Asia and Oceania,-0.20377239479129297,0,None
+2025-07-01,MNG,Mongolia,Developing,Asia and Oceania,-0.20377239479129297,0,None
+2025-08-01,MNG,Mongolia,Developing,Asia and Oceania,-0.20377239479129297,0,None
+2025-09-01,MNG,Mongolia,Developing,Asia and Oceania,-0.20377239479129297,0,None
+2025-10-01,MNG,Mongolia,Developing,Asia and Oceania,-0.20377239479129297,0,None
+2025-11-01,MNG,Mongolia,Developing,Asia and Oceania,-0.20377239479129297,0,None
+2025-12-01,MNG,Mongolia,Developing,Asia and Oceania,-0.20377239479129297,0,None
+2025-06-01,MOZ,Mozambique,Developing,Africa,-0.1281292451803438,0,None
+2025-07-01,MOZ,Mozambique,Developing,Africa,-0.1281292451803438,0,None
+2025-08-01,MOZ,Mozambique,Developing,Africa,-0.1281292451803438,0,None
+2025-09-01,MOZ,Mozambique,Developing,Africa,-0.1281292451803438,0,None
+2025-10-01,MOZ,Mozambique,Developing,Africa,-0.1281292451803438,0,None
+2025-11-01,MOZ,Mozambique,Developing,Africa,-0.1281292451803438,0,None
+2025-12-01,MOZ,Mozambique,Developing,Africa,-0.1281292451803438,0,None
+2025-06-01,MRT,Mauritania,Developing,Africa,0.04788568418970847,0,None
+2025-07-01,MRT,Mauritania,Developing,Africa,0.04788568418970847,0,None
+2025-08-01,MRT,Mauritania,Developing,Africa,0.04788568418970847,0,None
+2025-09-01,MRT,Mauritania,Developing,Africa,0.04788568418970847,0,None
+2025-10-01,MRT,Mauritania,Developing,Africa,0.04788568418970847,0,None
+2025-11-01,MRT,Mauritania,Developing,Africa,0.04788568418970847,0,None
+2025-12-01,MRT,Mauritania,Developing,Africa,0.04788568418970847,0,None
+2025-06-01,MUS,Mauritius,Developing,Africa,-0.04990930376673458,0,None
+2025-07-01,MUS,Mauritius,Developing,Africa,-0.04990930376673458,0,None
+2025-08-01,MUS,Mauritius,Developing,Africa,-0.04990930376673458,0,None
+2025-09-01,MUS,Mauritius,Developing,Africa,-0.04990930376673458,0,None
+2025-10-01,MUS,Mauritius,Developing,Africa,-0.04990930376673458,0,None
+2025-11-01,MUS,Mauritius,Developing,Africa,-0.04990930376673458,0,None
+2025-12-01,MUS,Mauritius,Developing,Africa,-0.04990930376673458,0,None
+2025-06-01,MWI,Malawi,Developing,Africa,-0.29684579530991706,0,None
+2025-07-01,MWI,Malawi,Developing,Africa,-0.29684579530991706,0,None
+2025-08-01,MWI,Malawi,Developing,Africa,-0.29684579530991706,0,None
+2025-09-01,MWI,Malawi,Developing,Africa,-0.29684579530991706,0,None
+2025-10-01,MWI,Malawi,Developing,Africa,-0.29684579530991706,0,None
+2025-11-01,MWI,Malawi,Developing,Africa,-0.29684579530991706,0,None
+2025-12-01,MWI,Malawi,Developing,Africa,-0.29684579530991706,0,None
+2025-06-01,MYS,Malaysia,Developing,Asia and Oceania,0.4546540414957269,0,None
+2025-07-01,MYS,Malaysia,Developing,Asia and Oceania,0.4546540414957269,0,None
+2025-08-01,MYS,Malaysia,Developing,Asia and Oceania,0.4546540414957269,0,None
+2025-09-01,MYS,Malaysia,Developing,Asia and Oceania,0.4546540414957269,0,None
+2025-10-01,MYS,Malaysia,Developing,Asia and Oceania,0.4546540414957269,0,None
+2025-11-01,MYS,Malaysia,Developing,Asia and Oceania,0.4546540414957269,0,None
+2025-12-01,MYS,Malaysia,Developing,Asia and Oceania,0.4546540414957269,0,None
+2025-06-01,NAM,Namibia,Developing,Africa,-0.09212116724553146,0,None
+2025-07-01,NAM,Namibia,Developing,Africa,-0.09212116724553146,0,None
+2025-08-01,NAM,Namibia,Developing,Africa,-0.09212116724553146,0,None
+2025-09-01,NAM,Namibia,Developing,Africa,-0.09212116724553146,0,None
+2025-10-01,NAM,Namibia,Developing,Africa,-0.09212116724553146,0,None
+2025-11-01,NAM,Namibia,Developing,Africa,-0.09212116724553146,0,None
+2025-12-01,NAM,Namibia,Developing,Africa,-0.09212116724553146,0,None
+2025-06-01,NER,Niger (the),Developing,Africa,0.10980306726335294,0,None
+2025-07-01,NER,Niger (the),Developing,Africa,0.10980306726335294,0,None
+2025-08-01,NER,Niger (the),Developing,Africa,0.10980306726335294,0,None
+2025-09-01,NER,Niger (the),Developing,Africa,0.10980306726335294,0,None
+2025-10-01,NER,Niger (the),Developing,Africa,0.10980306726335294,0,None
+2025-11-01,NER,Niger (the),Developing,Africa,0.10980306726335294,0,None
+2025-12-01,NER,Niger (the),Developing,Africa,0.10980306726335294,0,None
+2025-06-01,NGA,Nigeria,Developing,Africa,-0.5956100457425817,0,None
+2025-07-01,NGA,Nigeria,Developing,Africa,-0.5956100457425817,0,None
+2025-08-01,NGA,Nigeria,Developing,Africa,-0.5956100457425817,0,None
+2025-09-01,NGA,Nigeria,Developing,Africa,-0.5956100457425817,0,None
+2025-10-01,NGA,Nigeria,Developing,Africa,-0.5956100457425817,0,None
+2025-11-01,NGA,Nigeria,Developing,Africa,-0.5956100457425817,0,None
+2025-12-01,NGA,Nigeria,Developing,Africa,-0.5956100457425817,0,None
+2025-06-01,NIC,Nicaragua,Developing,America,-0.30186828893416773,0,None
+2025-07-01,NIC,Nicaragua,Developing,America,-0.30186828893416773,0,None
+2025-08-01,NIC,Nicaragua,Developing,America,-0.30186828893416773,0,None
+2025-09-01,NIC,Nicaragua,Developing,America,-0.30186828893416773,0,None
+2025-10-01,NIC,Nicaragua,Developing,America,-0.30186828893416773,0,None
+2025-11-01,NIC,Nicaragua,Developing,America,-0.30186828893416773,0,None
+2025-12-01,NIC,Nicaragua,Developing,America,-0.30186828893416773,0,None
+2025-06-01,NLD,Netherlands (the),Developed,Europe,-0.0095343910845388,0,None
+2025-07-01,NLD,Netherlands (the),Developed,Europe,-0.0095343910845388,0,None
+2025-08-01,NLD,Netherlands (the),Developed,Europe,-0.0095343910845388,0,None
+2025-09-01,NLD,Netherlands (the),Developed,Europe,-0.0095343910845388,0,None
+2025-10-01,NLD,Netherlands (the),Developed,Europe,-0.0095343910845388,0,None
+2025-11-01,NLD,Netherlands (the),Developed,Europe,-0.0095343910845388,0,None
+2025-12-01,NLD,Netherlands (the),Developed,Europe,-0.0095343910845388,0,None
+2025-06-01,NOR,Norway,Developed,Europe,0.07618686668861042,0,None
+2025-07-01,NOR,Norway,Developed,Europe,0.07618686668861042,0,None
+2025-08-01,NOR,Norway,Developed,Europe,0.07618686668861042,0,None
+2025-09-01,NOR,Norway,Developed,Europe,0.07618686668861042,0,None
+2025-10-01,NOR,Norway,Developed,Europe,0.07618686668861042,0,None
+2025-11-01,NOR,Norway,Developed,Europe,0.07618686668861042,0,None
+2025-12-01,NOR,Norway,Developed,Europe,0.07618686668861042,0,None
+2025-06-01,NPL,Nepal,Developing,Asia and Oceania,-0.1983051551155105,0,None
+2025-07-01,NPL,Nepal,Developing,Asia and Oceania,-0.1983051551155105,0,None
+2025-08-01,NPL,Nepal,Developing,Asia and Oceania,-0.1983051551155105,0,None
+2025-09-01,NPL,Nepal,Developing,Asia and Oceania,-0.1983051551155105,0,None
+2025-10-01,NPL,Nepal,Developing,Asia and Oceania,-0.1983051551155105,0,None
+2025-11-01,NPL,Nepal,Developing,Asia and Oceania,-0.1983051551155105,0,None
+2025-12-01,NPL,Nepal,Developing,Asia and Oceania,-0.1983051551155105,0,None
+2025-06-01,NRU,Nauru,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-07-01,NRU,Nauru,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-08-01,NRU,Nauru,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-09-01,NRU,Nauru,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-10-01,NRU,Nauru,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-11-01,NRU,Nauru,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-12-01,NRU,Nauru,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-06-01,NZL,New Zealand,Developed,Asia and Oceania,0.041696511959974064,0,None
+2025-07-01,NZL,New Zealand,Developed,Asia and Oceania,0.041696511959974064,0,None
+2025-08-01,NZL,New Zealand,Developed,Asia and Oceania,0.041696511959974064,0,None
+2025-09-01,NZL,New Zealand,Developed,Asia and Oceania,0.041696511959974064,0,None
+2025-10-01,NZL,New Zealand,Developed,Asia and Oceania,0.041696511959974064,0,None
+2025-11-01,NZL,New Zealand,Developed,Asia and Oceania,0.041696511959974064,0,None
+2025-12-01,NZL,New Zealand,Developed,Asia and Oceania,0.041696511959974064,0,None
+2025-06-01,OMN,Oman,Developing,Asia and Oceania,0.6304803522282497,1,Inflationary
+2025-07-01,OMN,Oman,Developing,Asia and Oceania,0.6304803522282497,1,Inflationary
+2025-08-01,OMN,Oman,Developing,Asia and Oceania,0.6304803522282497,1,Inflationary
+2025-09-01,OMN,Oman,Developing,Asia and Oceania,0.6304803522282497,1,Inflationary
+2025-10-01,OMN,Oman,Developing,Asia and Oceania,0.6304803522282497,1,Inflationary
+2025-11-01,OMN,Oman,Developing,Asia and Oceania,0.6304803522282497,1,Inflationary
+2025-12-01,OMN,Oman,Developing,Asia and Oceania,0.6304803522282497,1,Inflationary
+2025-06-01,PAK,Pakistan,Developing,Asia and Oceania,-0.4214749202163506,0,None
+2025-07-01,PAK,Pakistan,Developing,Asia and Oceania,-0.4214749202163506,0,None
+2025-08-01,PAK,Pakistan,Developing,Asia and Oceania,-0.4214749202163506,0,None
+2025-09-01,PAK,Pakistan,Developing,Asia and Oceania,-0.4214749202163506,0,None
+2025-10-01,PAK,Pakistan,Developing,Asia and Oceania,-0.4214749202163506,0,None
+2025-11-01,PAK,Pakistan,Developing,Asia and Oceania,-0.4214749202163506,0,None
+2025-12-01,PAK,Pakistan,Developing,Asia and Oceania,-0.4214749202163506,0,None
+2025-06-01,PAN,Panama,Developing,America,0.6563938981386065,1,Food Insecurity
+2025-07-01,PAN,Panama,Developing,America,0.6563938981386065,1,Food Insecurity
+2025-08-01,PAN,Panama,Developing,America,0.6563938981386065,1,Food Insecurity
+2025-09-01,PAN,Panama,Developing,America,0.6563938981386065,1,Food Insecurity
+2025-10-01,PAN,Panama,Developing,America,0.6563938981386065,1,Food Insecurity
+2025-11-01,PAN,Panama,Developing,America,0.6563938981386065,1,Food Insecurity
+2025-12-01,PAN,Panama,Developing,America,0.6563938981386065,1,Food Insecurity
+2025-06-01,PER,Peru,Developing,America,-0.05452726671492231,0,None
+2025-07-01,PER,Peru,Developing,America,-0.05452726671492231,0,None
+2025-08-01,PER,Peru,Developing,America,-0.05452726671492231,0,None
+2025-09-01,PER,Peru,Developing,America,-0.05452726671492231,0,None
+2025-10-01,PER,Peru,Developing,America,-0.05452726671492231,0,None
+2025-11-01,PER,Peru,Developing,America,-0.05452726671492231,0,None
+2025-12-01,PER,Peru,Developing,America,-0.05452726671492231,0,None
+2025-06-01,PHL,Philippines (the),Developing,Asia and Oceania,0.03588902023542721,0,None
+2025-07-01,PHL,Philippines (the),Developing,Asia and Oceania,0.03588902023542721,0,None
+2025-08-01,PHL,Philippines (the),Developing,Asia and Oceania,0.03588902023542721,0,None
+2025-09-01,PHL,Philippines (the),Developing,Asia and Oceania,0.03588902023542721,0,None
+2025-10-01,PHL,Philippines (the),Developing,Asia and Oceania,0.03588902023542721,0,None
+2025-11-01,PHL,Philippines (the),Developing,Asia and Oceania,0.03588902023542721,0,None
+2025-12-01,PHL,Philippines (the),Developing,Asia and Oceania,0.03588902023542721,0,None
+2025-06-01,PLW,Palau,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-07-01,PLW,Palau,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-08-01,PLW,Palau,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-09-01,PLW,Palau,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-10-01,PLW,Palau,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-11-01,PLW,Palau,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-12-01,PLW,Palau,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-06-01,PNG,Papua New Guinea,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-07-01,PNG,Papua New Guinea,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-08-01,PNG,Papua New Guinea,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-09-01,PNG,Papua New Guinea,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-10-01,PNG,Papua New Guinea,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-11-01,PNG,Papua New Guinea,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-12-01,PNG,Papua New Guinea,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-06-01,POL,Poland,Developed,Europe,-0.20997111547600986,0,None
+2025-07-01,POL,Poland,Developed,Europe,-0.20997111547600986,0,None
+2025-08-01,POL,Poland,Developed,Europe,-0.20997111547600986,0,None
+2025-09-01,POL,Poland,Developed,Europe,-0.20997111547600986,0,None
+2025-10-01,POL,Poland,Developed,Europe,-0.20997111547600986,0,None
+2025-11-01,POL,Poland,Developed,Europe,-0.20997111547600986,0,None
+2025-12-01,POL,Poland,Developed,Europe,-0.20997111547600986,0,None
+2025-06-01,PRT,Portugal,Developed,Europe,0.07873621848198901,0,None
+2025-07-01,PRT,Portugal,Developed,Europe,0.07873621848198901,0,None
+2025-08-01,PRT,Portugal,Developed,Europe,0.07873621848198901,0,None
+2025-09-01,PRT,Portugal,Developed,Europe,0.07873621848198901,0,None
+2025-10-01,PRT,Portugal,Developed,Europe,0.07873621848198901,0,None
+2025-11-01,PRT,Portugal,Developed,Europe,0.07873621848198901,0,None
+2025-12-01,PRT,Portugal,Developed,Europe,0.07873621848198901,0,None
+2025-06-01,PRY,Paraguay,Developing,America,-0.13123824680602736,0,None
+2025-07-01,PRY,Paraguay,Developing,America,-0.13123824680602736,0,None
+2025-08-01,PRY,Paraguay,Developing,America,-0.13123824680602736,0,None
+2025-09-01,PRY,Paraguay,Developing,America,-0.13123824680602736,0,None
+2025-10-01,PRY,Paraguay,Developing,America,-0.13123824680602736,0,None
+2025-11-01,PRY,Paraguay,Developing,America,-0.13123824680602736,0,None
+2025-12-01,PRY,Paraguay,Developing,America,-0.13123824680602736,0,None
+2025-06-01,QAT,Qatar,Developing,Asia and Oceania,0.37258548265744706,0,None
+2025-07-01,QAT,Qatar,Developing,Asia and Oceania,0.37258548265744706,0,None
+2025-08-01,QAT,Qatar,Developing,Asia and Oceania,0.37258548265744706,0,None
+2025-09-01,QAT,Qatar,Developing,Asia and Oceania,0.37258548265744706,0,None
+2025-10-01,QAT,Qatar,Developing,Asia and Oceania,0.37258548265744706,0,None
+2025-11-01,QAT,Qatar,Developing,Asia and Oceania,0.37258548265744706,0,None
+2025-12-01,QAT,Qatar,Developing,Asia and Oceania,0.37258548265744706,0,None
+2025-06-01,ROU,Romania,Developed,Europe,-0.0012434144731773445,0,None
+2025-07-01,ROU,Romania,Developed,Europe,-0.0012434144731773445,0,None
+2025-08-01,ROU,Romania,Developed,Europe,-0.0012434144731773445,0,None
+2025-09-01,ROU,Romania,Developed,Europe,-0.0012434144731773445,0,None
+2025-10-01,ROU,Romania,Developed,Europe,-0.0012434144731773445,0,None
+2025-11-01,ROU,Romania,Developed,Europe,-0.0012434144731773445,0,None
+2025-12-01,ROU,Romania,Developed,Europe,-0.0012434144731773445,0,None
+2025-06-01,RUS,Russian Federation (the),Developed,Europe,-0.280494074236458,0,None
+2025-07-01,RUS,Russian Federation (the),Developed,Europe,-0.280494074236458,0,None
+2025-08-01,RUS,Russian Federation (the),Developed,Europe,-0.280494074236458,0,None
+2025-09-01,RUS,Russian Federation (the),Developed,Europe,-0.280494074236458,0,None
+2025-10-01,RUS,Russian Federation (the),Developed,Europe,-0.280494074236458,0,None
+2025-11-01,RUS,Russian Federation (the),Developed,Europe,-0.280494074236458,0,None
+2025-12-01,RUS,Russian Federation (the),Developed,Europe,-0.280494074236458,0,None
+2025-06-01,RWA,Rwanda,Developing,Africa,-0.09071603310097867,0,None
+2025-07-01,RWA,Rwanda,Developing,Africa,-0.09071603310097867,0,None
+2025-08-01,RWA,Rwanda,Developing,Africa,-0.09071603310097867,0,None
+2025-09-01,RWA,Rwanda,Developing,Africa,-0.09071603310097867,0,None
+2025-10-01,RWA,Rwanda,Developing,Africa,-0.09071603310097867,0,None
+2025-11-01,RWA,Rwanda,Developing,Africa,-0.09071603310097867,0,None
+2025-12-01,RWA,Rwanda,Developing,Africa,-0.09071603310097867,0,None
+2025-06-01,SAU,Saudi Arabia,Developing,Asia and Oceania,0.23154151241859394,0,None
+2025-07-01,SAU,Saudi Arabia,Developing,Asia and Oceania,0.23154151241859394,0,None
+2025-08-01,SAU,Saudi Arabia,Developing,Asia and Oceania,0.23154151241859394,0,None
+2025-09-01,SAU,Saudi Arabia,Developing,Asia and Oceania,0.23154151241859394,0,None
+2025-10-01,SAU,Saudi Arabia,Developing,Asia and Oceania,0.23154151241859394,0,None
+2025-11-01,SAU,Saudi Arabia,Developing,Asia and Oceania,0.23154151241859394,0,None
+2025-12-01,SAU,Saudi Arabia,Developing,Asia and Oceania,0.23154151241859394,0,None
+2025-06-01,SDN,Sudan (the),Developing,Africa,0.001096315067478787,0,None
+2025-07-01,SDN,Sudan (the),Developing,Africa,0.001096315067478787,0,None
+2025-08-01,SDN,Sudan (the),Developing,Africa,0.001096315067478787,0,None
+2025-09-01,SDN,Sudan (the),Developing,Africa,0.001096315067478787,0,None
+2025-10-01,SDN,Sudan (the),Developing,Africa,0.001096315067478787,0,None
+2025-11-01,SDN,Sudan (the),Developing,Africa,0.001096315067478787,0,None
+2025-12-01,SDN,Sudan (the),Developing,Africa,0.001096315067478787,0,None
+2025-06-01,SEN,Senegal,Developing,Africa,0.1327118990116865,0,None
+2025-07-01,SEN,Senegal,Developing,Africa,0.1327118990116865,0,None
+2025-08-01,SEN,Senegal,Developing,Africa,0.1327118990116865,0,None
+2025-09-01,SEN,Senegal,Developing,Africa,0.1327118990116865,0,None
+2025-10-01,SEN,Senegal,Developing,Africa,0.1327118990116865,0,None
+2025-11-01,SEN,Senegal,Developing,Africa,0.1327118990116865,0,None
+2025-12-01,SEN,Senegal,Developing,Africa,0.1327118990116865,0,None
+2025-06-01,SGP,Singapore,Developing,Asia and Oceania,0.08881825160396006,0,None
+2025-07-01,SGP,Singapore,Developing,Asia and Oceania,0.08881825160396006,0,None
+2025-08-01,SGP,Singapore,Developing,Asia and Oceania,0.08881825160396006,0,None
+2025-09-01,SGP,Singapore,Developing,Asia and Oceania,0.08881825160396006,0,None
+2025-10-01,SGP,Singapore,Developing,Asia and Oceania,0.08881825160396006,0,None
+2025-11-01,SGP,Singapore,Developing,Asia and Oceania,0.08881825160396006,0,None
+2025-12-01,SGP,Singapore,Developing,Asia and Oceania,0.08881825160396006,0,None
+2025-06-01,SLB,Solomon Islands,Developing,Asia and Oceania,0.017436784571708254,0,None
+2025-07-01,SLB,Solomon Islands,Developing,Asia and Oceania,0.017436784571708254,0,None
+2025-08-01,SLB,Solomon Islands,Developing,Asia and Oceania,0.017436784571708254,0,None
+2025-09-01,SLB,Solomon Islands,Developing,Asia and Oceania,0.017436784571708254,0,None
+2025-10-01,SLB,Solomon Islands,Developing,Asia and Oceania,0.017436784571708254,0,None
+2025-11-01,SLB,Solomon Islands,Developing,Asia and Oceania,0.017436784571708254,0,None
+2025-12-01,SLB,Solomon Islands,Developing,Asia and Oceania,0.017436784571708254,0,None
+2025-06-01,SLE,Sierra Leone,Developing,Africa,-0.4100226476080908,0,None
+2025-07-01,SLE,Sierra Leone,Developing,Africa,-0.4100226476080908,0,None
+2025-08-01,SLE,Sierra Leone,Developing,Africa,-0.4100226476080908,0,None
+2025-09-01,SLE,Sierra Leone,Developing,Africa,-0.4100226476080908,0,None
+2025-10-01,SLE,Sierra Leone,Developing,Africa,-0.4100226476080908,0,None
+2025-11-01,SLE,Sierra Leone,Developing,Africa,-0.4100226476080908,0,None
+2025-12-01,SLE,Sierra Leone,Developing,Africa,-0.4100226476080908,0,None
+2025-06-01,SLV,El Salvador,Developing,America,0.11481037352058444,0,None
+2025-07-01,SLV,El Salvador,Developing,America,0.11481037352058444,0,None
+2025-08-01,SLV,El Salvador,Developing,America,0.11481037352058444,0,None
+2025-09-01,SLV,El Salvador,Developing,America,0.11481037352058444,0,None
+2025-10-01,SLV,El Salvador,Developing,America,0.11481037352058444,0,None
+2025-11-01,SLV,El Salvador,Developing,America,0.11481037352058444,0,None
+2025-12-01,SLV,El Salvador,Developing,America,0.11481037352058444,0,None
+2025-06-01,SOM,Somalia,Developing,Africa,-0.03319982173804664,0,None
+2025-07-01,SOM,Somalia,Developing,Africa,-0.03319982173804664,0,None
+2025-08-01,SOM,Somalia,Developing,Africa,-0.03319982173804664,0,None
+2025-09-01,SOM,Somalia,Developing,Africa,-0.03319982173804664,0,None
+2025-10-01,SOM,Somalia,Developing,Africa,-0.03319982173804664,0,None
+2025-11-01,SOM,Somalia,Developing,Africa,-0.03319982173804664,0,None
+2025-12-01,SOM,Somalia,Developing,Africa,-0.03319982173804664,0,None
+2025-06-01,SRB,Serbia,Developed,Europe,-0.18482982000653522,0,None
+2025-07-01,SRB,Serbia,Developed,Europe,-0.18482982000653522,0,None
+2025-08-01,SRB,Serbia,Developed,Europe,-0.18482982000653522,0,None
+2025-09-01,SRB,Serbia,Developed,Europe,-0.18482982000653522,0,None
+2025-10-01,SRB,Serbia,Developed,Europe,-0.18482982000653522,0,None
+2025-11-01,SRB,Serbia,Developed,Europe,-0.18482982000653522,0,None
+2025-12-01,SRB,Serbia,Developed,Europe,-0.18482982000653522,0,None
+2025-06-01,SSD,South Sudan,Developing,Africa,-0.01312735075389812,0,None
+2025-07-01,SSD,South Sudan,Developing,Africa,-0.01312735075389812,0,None
+2025-08-01,SSD,South Sudan,Developing,Africa,-0.01312735075389812,0,None
+2025-09-01,SSD,South Sudan,Developing,Africa,-0.01312735075389812,0,None
+2025-10-01,SSD,South Sudan,Developing,Africa,-0.01312735075389812,0,None
+2025-11-01,SSD,South Sudan,Developing,Africa,-0.01312735075389812,0,None
+2025-12-01,SSD,South Sudan,Developing,Africa,-0.01312735075389812,0,None
+2025-06-01,STP,Sao Tome and Principe,Developing,Africa,-0.23818279364503955,0,None
+2025-07-01,STP,Sao Tome and Principe,Developing,Africa,-0.23818279364503955,0,None
+2025-08-01,STP,Sao Tome and Principe,Developing,Africa,-0.23818279364503955,0,None
+2025-09-01,STP,Sao Tome and Principe,Developing,Africa,-0.23818279364503955,0,None
+2025-10-01,STP,Sao Tome and Principe,Developing,Africa,-0.23818279364503955,0,None
+2025-11-01,STP,Sao Tome and Principe,Developing,Africa,-0.23818279364503955,0,None
+2025-12-01,STP,Sao Tome and Principe,Developing,Africa,-0.23818279364503955,0,None
+2025-06-01,SUR,Suriname,Developing,America,-0.23231302021784456,0,None
+2025-07-01,SUR,Suriname,Developing,America,-0.23231302021784456,0,None
+2025-08-01,SUR,Suriname,Developing,America,-0.23231302021784456,0,None
+2025-09-01,SUR,Suriname,Developing,America,-0.23231302021784456,0,None
+2025-10-01,SUR,Suriname,Developing,America,-0.23231302021784456,0,None
+2025-11-01,SUR,Suriname,Developing,America,-0.23231302021784456,0,None
+2025-12-01,SUR,Suriname,Developing,America,-0.23231302021784456,0,None
+2025-06-01,SVK,Slovakia,Developed,Europe,-0.15132717121151398,0,None
+2025-07-01,SVK,Slovakia,Developed,Europe,-0.15132717121151398,0,None
+2025-08-01,SVK,Slovakia,Developed,Europe,-0.15132717121151398,0,None
+2025-09-01,SVK,Slovakia,Developed,Europe,-0.15132717121151398,0,None
+2025-10-01,SVK,Slovakia,Developed,Europe,-0.15132717121151398,0,None
+2025-11-01,SVK,Slovakia,Developed,Europe,-0.15132717121151398,0,None
+2025-12-01,SVK,Slovakia,Developed,Europe,-0.15132717121151398,0,None
+2025-06-01,SVN,Slovenia,Developed,Europe,0.006809754629572416,0,None
+2025-07-01,SVN,Slovenia,Developed,Europe,0.006809754629572416,0,None
+2025-08-01,SVN,Slovenia,Developed,Europe,0.006809754629572416,0,None
+2025-09-01,SVN,Slovenia,Developed,Europe,0.006809754629572416,0,None
+2025-10-01,SVN,Slovenia,Developed,Europe,0.006809754629572416,0,None
+2025-11-01,SVN,Slovenia,Developed,Europe,0.006809754629572416,0,None
+2025-12-01,SVN,Slovenia,Developed,Europe,0.006809754629572416,0,None
+2025-06-01,SWE,Sweden,Developed,Europe,-0.010832746477315665,0,None
+2025-07-01,SWE,Sweden,Developed,Europe,-0.010832746477315665,0,None
+2025-08-01,SWE,Sweden,Developed,Europe,-0.010832746477315665,0,None
+2025-09-01,SWE,Sweden,Developed,Europe,-0.010832746477315665,0,None
+2025-10-01,SWE,Sweden,Developed,Europe,-0.010832746477315665,0,None
+2025-11-01,SWE,Sweden,Developed,Europe,-0.010832746477315665,0,None
+2025-12-01,SWE,Sweden,Developed,Europe,-0.010832746477315665,0,None
+2025-06-01,SWZ,Eswatini,Developing,Africa,0.002878001263444105,0,None
+2025-07-01,SWZ,Eswatini,Developing,Africa,0.002878001263444105,0,None
+2025-08-01,SWZ,Eswatini,Developing,Africa,0.002878001263444105,0,None
+2025-09-01,SWZ,Eswatini,Developing,Africa,0.002878001263444105,0,None
+2025-10-01,SWZ,Eswatini,Developing,Africa,0.002878001263444105,0,None
+2025-11-01,SWZ,Eswatini,Developing,Africa,0.002878001263444105,0,None
+2025-12-01,SWZ,Eswatini,Developing,Africa,0.002878001263444105,0,None
+2025-06-01,SYC,Seychelles,Developing,Africa,0.2568841476870377,0,None
+2025-07-01,SYC,Seychelles,Developing,Africa,0.2568841476870377,0,None
+2025-08-01,SYC,Seychelles,Developing,Africa,0.2568841476870377,0,None
+2025-09-01,SYC,Seychelles,Developing,Africa,0.2568841476870377,0,None
+2025-10-01,SYC,Seychelles,Developing,Africa,0.2568841476870377,0,None
+2025-11-01,SYC,Seychelles,Developing,Africa,0.2568841476870377,0,None
+2025-12-01,SYC,Seychelles,Developing,Africa,0.2568841476870377,0,None
+2025-06-01,SYR,Syrian Arab Republic (the),Developing,Asia and Oceania,-0.07963182865152602,0,None
+2025-07-01,SYR,Syrian Arab Republic (the),Developing,Asia and Oceania,-0.07963182865152602,0,None
+2025-08-01,SYR,Syrian Arab Republic (the),Developing,Asia and Oceania,-0.07963182865152602,0,None
+2025-09-01,SYR,Syrian Arab Republic (the),Developing,Asia and Oceania,-0.07963182865152602,0,None
+2025-10-01,SYR,Syrian Arab Republic (the),Developing,Asia and Oceania,-0.07963182865152602,0,None
+2025-11-01,SYR,Syrian Arab Republic (the),Developing,Asia and Oceania,-0.07963182865152602,0,None
+2025-12-01,SYR,Syrian Arab Republic (the),Developing,Asia and Oceania,-0.07963182865152602,0,None
+2025-06-01,TCD,Chad,Developing,Africa,0.19644488254459724,0,None
+2025-07-01,TCD,Chad,Developing,Africa,0.19644488254459724,0,None
+2025-08-01,TCD,Chad,Developing,Africa,0.19644488254459724,0,None
+2025-09-01,TCD,Chad,Developing,Africa,0.19644488254459724,0,None
+2025-10-01,TCD,Chad,Developing,Africa,0.19644488254459724,0,None
+2025-11-01,TCD,Chad,Developing,Africa,0.19644488254459724,0,None
+2025-12-01,TCD,Chad,Developing,Africa,0.19644488254459724,0,None
+2025-06-01,TGO,Togo,Developing,Africa,0.06679110372594427,0,None
+2025-07-01,TGO,Togo,Developing,Africa,0.06679110372594427,0,None
+2025-08-01,TGO,Togo,Developing,Africa,0.06679110372594427,0,None
+2025-09-01,TGO,Togo,Developing,Africa,0.06679110372594427,0,None
+2025-10-01,TGO,Togo,Developing,Africa,0.06679110372594427,0,None
+2025-11-01,TGO,Togo,Developing,Africa,0.06679110372594427,0,None
+2025-12-01,TGO,Togo,Developing,Africa,0.06679110372594427,0,None
+2025-06-01,THA,Thailand,Developing,Asia and Oceania,0.24654924829443073,0,None
+2025-07-01,THA,Thailand,Developing,Asia and Oceania,0.24654924829443073,0,None
+2025-08-01,THA,Thailand,Developing,Asia and Oceania,0.24654924829443073,0,None
+2025-09-01,THA,Thailand,Developing,Asia and Oceania,0.24654924829443073,0,None
+2025-10-01,THA,Thailand,Developing,Asia and Oceania,0.24654924829443073,0,None
+2025-11-01,THA,Thailand,Developing,Asia and Oceania,0.24654924829443073,0,None
+2025-12-01,THA,Thailand,Developing,Asia and Oceania,0.24654924829443073,0,None
+2025-06-01,TJK,Tajikistan,Developing,Asia and Oceania,-0.18501665207341933,0,None
+2025-07-01,TJK,Tajikistan,Developing,Asia and Oceania,-0.18501665207341933,0,None
+2025-08-01,TJK,Tajikistan,Developing,Asia and Oceania,-0.18501665207341933,0,None
+2025-09-01,TJK,Tajikistan,Developing,Asia and Oceania,-0.18501665207341933,0,None
+2025-10-01,TJK,Tajikistan,Developing,Asia and Oceania,-0.18501665207341933,0,None
+2025-11-01,TJK,Tajikistan,Developing,Asia and Oceania,-0.18501665207341933,0,None
+2025-12-01,TJK,Tajikistan,Developing,Asia and Oceania,-0.18501665207341933,0,None
+2025-06-01,TKM,Turkmenistan,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-07-01,TKM,Turkmenistan,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-08-01,TKM,Turkmenistan,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-09-01,TKM,Turkmenistan,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-10-01,TKM,Turkmenistan,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-11-01,TKM,Turkmenistan,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-12-01,TKM,Turkmenistan,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-06-01,TLS,Timor-Leste,Developing,Asia and Oceania,0.00010483587750104379,0,None
+2025-07-01,TLS,Timor-Leste,Developing,Asia and Oceania,0.00010483587750104379,0,None
+2025-08-01,TLS,Timor-Leste,Developing,Asia and Oceania,0.00010483587750104379,0,None
+2025-09-01,TLS,Timor-Leste,Developing,Asia and Oceania,0.00010483587750104379,0,None
+2025-10-01,TLS,Timor-Leste,Developing,Asia and Oceania,0.00010483587750104379,0,None
+2025-11-01,TLS,Timor-Leste,Developing,Asia and Oceania,0.00010483587750104379,0,None
+2025-12-01,TLS,Timor-Leste,Developing,Asia and Oceania,0.00010483587750104379,0,None
+2025-06-01,TON,Tonga,Developing,Asia and Oceania,-0.03243213351328179,0,None
+2025-07-01,TON,Tonga,Developing,Asia and Oceania,-0.03243213351328179,0,None
+2025-08-01,TON,Tonga,Developing,Asia and Oceania,-0.03243213351328179,0,None
+2025-09-01,TON,Tonga,Developing,Asia and Oceania,-0.03243213351328179,0,None
+2025-10-01,TON,Tonga,Developing,Asia and Oceania,-0.03243213351328179,0,None
+2025-11-01,TON,Tonga,Developing,Asia and Oceania,-0.03243213351328179,0,None
+2025-12-01,TON,Tonga,Developing,Asia and Oceania,-0.03243213351328179,0,None
+2025-06-01,TTO,Trinidad and Tobago,Developing,America,0.12385662779484428,0,None
+2025-07-01,TTO,Trinidad and Tobago,Developing,America,0.12385662779484428,0,None
+2025-08-01,TTO,Trinidad and Tobago,Developing,America,0.12385662779484428,0,None
+2025-09-01,TTO,Trinidad and Tobago,Developing,America,0.12385662779484428,0,None
+2025-10-01,TTO,Trinidad and Tobago,Developing,America,0.12385662779484428,0,None
+2025-11-01,TTO,Trinidad and Tobago,Developing,America,0.12385662779484428,0,None
+2025-12-01,TTO,Trinidad and Tobago,Developing,America,0.12385662779484428,0,None
+2025-06-01,TUN,Tunisia,Developing,Africa,-0.320307404957632,0,None
+2025-07-01,TUN,Tunisia,Developing,Africa,-0.320307404957632,0,None
+2025-08-01,TUN,Tunisia,Developing,Africa,-0.320307404957632,0,None
+2025-09-01,TUN,Tunisia,Developing,Africa,-0.320307404957632,0,None
+2025-10-01,TUN,Tunisia,Developing,Africa,-0.320307404957632,0,None
+2025-11-01,TUN,Tunisia,Developing,Africa,-0.320307404957632,0,None
+2025-12-01,TUN,Tunisia,Developing,Africa,-0.320307404957632,0,None
+2025-06-01,TUR,Türkiye,Developing,Asia and Oceania,-0.5412385177807711,0,None
+2025-07-01,TUR,Türkiye,Developing,Asia and Oceania,-0.5412385177807711,0,None
+2025-08-01,TUR,Türkiye,Developing,Asia and Oceania,-0.5412385177807711,0,None
+2025-09-01,TUR,Türkiye,Developing,Asia and Oceania,-0.5412385177807711,0,None
+2025-10-01,TUR,Türkiye,Developing,Asia and Oceania,-0.5412385177807711,0,None
+2025-11-01,TUR,Türkiye,Developing,Asia and Oceania,-0.5412385177807711,0,None
+2025-12-01,TUR,Türkiye,Developing,Asia and Oceania,-0.5412385177807711,0,None
+2025-06-01,TUV,Tuvalu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-07-01,TUV,Tuvalu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-08-01,TUV,Tuvalu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-09-01,TUV,Tuvalu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-10-01,TUV,Tuvalu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-11-01,TUV,Tuvalu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-12-01,TUV,Tuvalu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-06-01,TZA,Tanzania (the United Republic of),Developing,Africa,0.15725641823941866,0,None
+2025-07-01,TZA,Tanzania (the United Republic of),Developing,Africa,0.15725641823941866,0,None
+2025-08-01,TZA,Tanzania (the United Republic of),Developing,Africa,0.15725641823941866,0,None
+2025-09-01,TZA,Tanzania (the United Republic of),Developing,Africa,0.15725641823941866,0,None
+2025-10-01,TZA,Tanzania (the United Republic of),Developing,Africa,0.15725641823941866,0,None
+2025-11-01,TZA,Tanzania (the United Republic of),Developing,Africa,0.15725641823941866,0,None
+2025-12-01,TZA,Tanzania (the United Republic of),Developing,Africa,0.15725641823941866,0,None
+2025-06-01,UGA,Uganda,Developing,Africa,0.0844248329937886,0,None
+2025-07-01,UGA,Uganda,Developing,Africa,0.0844248329937886,0,None
+2025-08-01,UGA,Uganda,Developing,Africa,0.0844248329937886,0,None
+2025-09-01,UGA,Uganda,Developing,Africa,0.0844248329937886,0,None
+2025-10-01,UGA,Uganda,Developing,Africa,0.0844248329937886,0,None
+2025-11-01,UGA,Uganda,Developing,Africa,0.0844248329937886,0,None
+2025-12-01,UGA,Uganda,Developing,Africa,0.0844248329937886,0,None
+2025-06-01,UKR,Ukraine,Developed,Europe,-0.32347709385854106,0,None
+2025-07-01,UKR,Ukraine,Developed,Europe,-0.32347709385854106,0,None
+2025-08-01,UKR,Ukraine,Developed,Europe,-0.32347709385854106,0,None
+2025-09-01,UKR,Ukraine,Developed,Europe,-0.32347709385854106,0,None
+2025-10-01,UKR,Ukraine,Developed,Europe,-0.32347709385854106,0,None
+2025-11-01,UKR,Ukraine,Developed,Europe,-0.32347709385854106,0,None
+2025-12-01,UKR,Ukraine,Developed,Europe,-0.32347709385854106,0,None
+2025-06-01,URY,Uruguay,Developing,America,-0.2524822775711151,0,None
+2025-07-01,URY,Uruguay,Developing,America,-0.2524822775711151,0,None
+2025-08-01,URY,Uruguay,Developing,America,-0.2524822775711151,0,None
+2025-09-01,URY,Uruguay,Developing,America,-0.2524822775711151,0,None
+2025-10-01,URY,Uruguay,Developing,America,-0.2524822775711151,0,None
+2025-11-01,URY,Uruguay,Developing,America,-0.2524822775711151,0,None
+2025-12-01,URY,Uruguay,Developing,America,-0.2524822775711151,0,None
+2025-06-01,USA,United States of America (the),Developed,America,0.04758692646861875,0,None
+2025-07-01,USA,United States of America (the),Developed,America,0.04758692646861875,0,None
+2025-08-01,USA,United States of America (the),Developed,America,0.04758692646861875,0,None
+2025-09-01,USA,United States of America (the),Developed,America,0.04758692646861875,0,None
+2025-10-01,USA,United States of America (the),Developed,America,0.04758692646861875,0,None
+2025-11-01,USA,United States of America (the),Developed,America,0.04758692646861875,0,None
+2025-12-01,USA,United States of America (the),Developed,America,0.04758692646861875,0,None
+2025-06-01,UZB,Uzbekistan,Developing,Asia and Oceania,-0.40493570967675796,0,None
+2025-07-01,UZB,Uzbekistan,Developing,Asia and Oceania,-0.40493570967675796,0,None
+2025-08-01,UZB,Uzbekistan,Developing,Asia and Oceania,-0.40493570967675796,0,None
+2025-09-01,UZB,Uzbekistan,Developing,Asia and Oceania,-0.40493570967675796,0,None
+2025-10-01,UZB,Uzbekistan,Developing,Asia and Oceania,-0.40493570967675796,0,None
+2025-11-01,UZB,Uzbekistan,Developing,Asia and Oceania,-0.40493570967675796,0,None
+2025-12-01,UZB,Uzbekistan,Developing,Asia and Oceania,-0.40493570967675796,0,None
+2025-06-01,VCT,Saint Vincent and the Grenadines,Developing,America,0.08071685806419107,0,None
+2025-07-01,VCT,Saint Vincent and the Grenadines,Developing,America,0.08071685806419107,0,None
+2025-08-01,VCT,Saint Vincent and the Grenadines,Developing,America,0.08071685806419107,0,None
+2025-09-01,VCT,Saint Vincent and the Grenadines,Developing,America,0.08071685806419107,0,None
+2025-10-01,VCT,Saint Vincent and the Grenadines,Developing,America,0.08071685806419107,0,None
+2025-11-01,VCT,Saint Vincent and the Grenadines,Developing,America,0.08071685806419107,0,None
+2025-12-01,VCT,Saint Vincent and the Grenadines,Developing,America,0.08071685806419107,0,None
+2025-06-01,VEN,Venezuela (Bolivarian Republic of),Developing,America,-0.3220658555223954,0,None
+2025-07-01,VEN,Venezuela (Bolivarian Republic of),Developing,America,-0.3220658555223954,0,None
+2025-08-01,VEN,Venezuela (Bolivarian Republic of),Developing,America,-0.3220658555223954,0,None
+2025-09-01,VEN,Venezuela (Bolivarian Republic of),Developing,America,-0.3220658555223954,0,None
+2025-10-01,VEN,Venezuela (Bolivarian Republic of),Developing,America,-0.3220658555223954,0,None
+2025-11-01,VEN,Venezuela (Bolivarian Republic of),Developing,America,-0.3220658555223954,0,None
+2025-12-01,VEN,Venezuela (Bolivarian Republic of),Developing,America,-0.3220658555223954,0,None
+2025-06-01,VNM,Viet Nam,Developing,Asia and Oceania,0.061367395557132914,0,None
+2025-07-01,VNM,Viet Nam,Developing,Asia and Oceania,0.061367395557132914,0,None
+2025-08-01,VNM,Viet Nam,Developing,Asia and Oceania,0.061367395557132914,0,None
+2025-09-01,VNM,Viet Nam,Developing,Asia and Oceania,0.061367395557132914,0,None
+2025-10-01,VNM,Viet Nam,Developing,Asia and Oceania,0.061367395557132914,0,None
+2025-11-01,VNM,Viet Nam,Developing,Asia and Oceania,0.061367395557132914,0,None
+2025-12-01,VNM,Viet Nam,Developing,Asia and Oceania,0.061367395557132914,0,None
+2025-06-01,VUT,Vanuatu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-07-01,VUT,Vanuatu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-08-01,VUT,Vanuatu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-09-01,VUT,Vanuatu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-10-01,VUT,Vanuatu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-11-01,VUT,Vanuatu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-12-01,VUT,Vanuatu,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-06-01,WSM,Samoa,Developing,Asia and Oceania,-0.0026721426826905813,0,None
+2025-07-01,WSM,Samoa,Developing,Asia and Oceania,-0.0026721426826905813,0,None
+2025-08-01,WSM,Samoa,Developing,Asia and Oceania,-0.0026721426826905813,0,None
+2025-09-01,WSM,Samoa,Developing,Asia and Oceania,-0.0026721426826905813,0,None
+2025-10-01,WSM,Samoa,Developing,Asia and Oceania,-0.0026721426826905813,0,None
+2025-11-01,WSM,Samoa,Developing,Asia and Oceania,-0.0026721426826905813,0,None
+2025-12-01,WSM,Samoa,Developing,Asia and Oceania,-0.0026721426826905813,0,None
+2025-06-01,YEM,Yemen,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-07-01,YEM,Yemen,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-08-01,YEM,Yemen,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-09-01,YEM,Yemen,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-10-01,YEM,Yemen,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-11-01,YEM,Yemen,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-12-01,YEM,Yemen,Developing,Asia and Oceania,-0.0012434144731773445,0,None
+2025-06-01,ZAF,South Africa,Developing,Africa,-0.13443076906055507,0,None
+2025-07-01,ZAF,South Africa,Developing,Africa,-0.13443076906055507,0,None
+2025-08-01,ZAF,South Africa,Developing,Africa,-0.13443076906055507,0,None
+2025-09-01,ZAF,South Africa,Developing,Africa,-0.13443076906055507,0,None
+2025-10-01,ZAF,South Africa,Developing,Africa,-0.13443076906055507,0,None
+2025-11-01,ZAF,South Africa,Developing,Africa,-0.13443076906055507,0,None
+2025-12-01,ZAF,South Africa,Developing,Africa,-0.13443076906055507,0,None
+2025-06-01,ZMB,Zambia,Developing,Africa,-0.5897176799616519,0,None
+2025-07-01,ZMB,Zambia,Developing,Africa,-0.5897176799616519,0,None
+2025-08-01,ZMB,Zambia,Developing,Africa,-0.5897176799616519,0,None
+2025-09-01,ZMB,Zambia,Developing,Africa,-0.5897176799616519,0,None
+2025-10-01,ZMB,Zambia,Developing,Africa,-0.5897176799616519,0,None
+2025-11-01,ZMB,Zambia,Developing,Africa,-0.5897176799616519,0,None
+2025-12-01,ZMB,Zambia,Developing,Africa,-0.5897176799616519,0,None
+2025-06-01,ZWE,Zimbabwe,Developing,Africa,-0.2414806442031648,0,None
+2025-07-01,ZWE,Zimbabwe,Developing,Africa,-0.2414806442031648,0,None
+2025-08-01,ZWE,Zimbabwe,Developing,Africa,-0.2414806442031648,0,None
+2025-09-01,ZWE,Zimbabwe,Developing,Africa,-0.2414806442031648,0,None
+2025-10-01,ZWE,Zimbabwe,Developing,Africa,-0.2414806442031648,0,None
+2025-11-01,ZWE,Zimbabwe,Developing,Africa,-0.2414806442031648,0,None
+2025-12-01,ZWE,Zimbabwe,Developing,Africa,-0.2414806442031648,0,None
